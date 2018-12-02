@@ -214,37 +214,6 @@ E por fim, a __equação fundamental de crescimento de Solow e Swan__ para a fun
 $$ \dot k_t = sAk_t^\alpha + k_t(n - \delta)$$ (1)
 
 #### Representação gráfica
-
-$$\begin{tikzpicture}[scale=1]\small
-\begin{axis}[axis line style=gray,
-	samples=120,
-	width=9.0cm,height=6.4cm,
-	xmin=0, xmax=1.2,
-	ymin=0, ymax=1,
-	restrict y to domain=0:1,
-	ytick={0},
-	xtick={0},
-	axis equal,
-	axis x line=center,
-	axis y line=center,
-	xlabel=$k_t$,ylabel=$f(k_t)$]
-\def\n{0.9}
-\def\A{0.9}
-\def\a{0.4}
-\def\d{0.13}
-\def\s{0.7}
-\def\kp{0.2}
-\addplot[black,domain=0:1,semithick]{\A * x^\a};
-\addplot[] coordinates {(1.08,\A * x^\a)} node{$A k_t^\alpha$};
-\addplot[black,domain=0:1,semithick]{\s * \A * x^\a};
-\addplot[] coordinates {(1.08,\s * \A * x^\a)} node{$sA k_t^\alpha$};
-\addplot[] coordinates {(1.15, \n - \d)} node{$(n-d)k_t$};
-\addplot[black,domain=0:1,semithick]{x*(\n- \d)};
-\draw[--,thin] (\kp, 0)-- +(\kp, \s * \A * \kp^\a);
-\path (axis cs:0,0) node [anchor=north west,yshift=-0.07cm] {0};
-\end{axis}
-\end{tikzpicture}$$
-
 [Análise GeoAlgebra](https://www.geogebra.org/graphing/tsytu8jw)
 
 ## Predições do modelo Solow e Swan
@@ -269,5 +238,5 @@ Predições:
 
 Usando a equação básica do modelo de crescimento com taxa de poupança constante $$\dot k_t = sy_t - k_t(n + \delta)$$, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTMyMjgwM119
+eyJoaXN0b3J5IjpbLTM4MjIzNDc3MywxNjAxMzIyODAzXX0=
 -->
