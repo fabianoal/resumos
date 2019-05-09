@@ -602,7 +602,7 @@ $$\hat{\beta}_1 | y=\tilde{\beta}_0 + \tilde{\beta}_1 x_1 + \tilde{\beta}_2 x_2 
 
 (ii) Nesse caso, como a regressão que calcula $\tilde{\beta}_1$ não faz referência a $x_2$ e $x_3$, e, dada a **não correlação** de $x_1$ com $x_2$ e $x_3$, isso implicará que $E[y|x_1] = E[y|x_1, x_2, x_3]$, ou seja, $\tilde{\beta}_1 \approx \hat{\beta}_1$.
 
-(iii)
+(iii) Nesse caso,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbNzc2MTYwMjg3LC01OTY3MDU4MjVdfQ==
 -->
