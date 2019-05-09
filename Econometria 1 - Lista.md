@@ -602,8 +602,8 @@ $$\hat{\beta}_1 | y=\tilde{\beta}_0 + \tilde{\beta}_1 x_1 + \tilde{\beta}_2 x_2 
 
 (ii) Nesse caso, como a regressão que calcula $\tilde{\beta}_1$ não faz referência a $x_2$ e $x_3$, e, dada a **não correlação** de $x_1$ com $x_2$ e $x_3$, isso implicará que $E[y|x_1] = E[y|x_1, x_2, x_3]$, ou seja, $\tilde{\beta}_1 \approx \hat{\beta}_1$.
 
-(iii) Nesse caso, a presença de $x_2$ e $x_3$ para cálculo de $\hat{\beta}_1$ contribuiria para diminuir o SQR da equação como umt
+(iii) Nesse caso, a presença de $x_2$ e $x_3$ para cálculo de $\hat{\beta}_1$ contribuiria para diminuir o SQR do modelo como um todo. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjU2MTUxMCw3NzYxNjAyODcsLTU5Nj
-cwNTgyNV19
+eyJoaXN0b3J5IjpbNjQzODQxMjI1LDc3NjE2MDI4NywtNTk2Nz
+A1ODI1XX0=
 -->
