@@ -604,7 +604,7 @@ $$\hat{\beta}_1 | y=\tilde{\beta}_0 + \tilde{\beta}_1 x_1 + \tilde{\beta}_2 x_2 
 
 (iii) A RLM.5 prevê que $Var(y|\boldsymbol{x}) = \sigma^2$ Já a variãncia dos betas, pode ser obtida com a seguinte equação:
 
-$$Var(\hat{\beta}_1)=\frac{\sigma^2}{SQT_j(1-R^2_j)}$$
+$$Var(\hat{\beta}_j)=\frac{\sigma^2}{SQT_j(1-R^2_j)}$$
 
 Onde $SQT_j=\sum_{i =1}^n(x_{ij} - \bar{x}_{j})^2$ é a variação amostral total em $x_j$, e $R^2_j$ é o R-quadrado da regressão $x_j$ sobre todas as outras variáveis independentes.
 
@@ -612,6 +612,6 @@ Como, nesse caso, estamos analisando uma situação em que há correlação entr
 
 (iv) Aqui, a situação é a inversa do item (iii). Não sendo $x_1$ correlacionada com $x_2$ e $x_3$, o $R_1^2$ tenderá a ser menor, o que deixará o denominador da equação de $Var(\beta)$ maior, produzindo assim $ep(\tilde{\beta}_1) >ep(\hat{\beta}_1)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTcwODc0MTgsNjQzODQxMjI1LDc3Nj
-E2MDI4NywtNTk2NzA1ODI1XX0=
+eyJoaXN0b3J5IjpbLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MT
+YwMjg3LC01OTY3MDU4MjVdfQ==
 -->
