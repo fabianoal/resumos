@@ -602,7 +602,7 @@ $$\hat{\beta}_1 | y=\tilde{\beta}_0 + \tilde{\beta}_1 x_1 + \tilde{\beta}_2 x_2 
 
 (ii) Nesse caso, como a regressão que calcula $\tilde{\beta}_1$ não faz referência a $x_2$ e $x_3$, e, dada a **não correlação** de $x_1$ com $x_2$ e $x_3$, isso implicará que $E[y|x_1] = E[y|x_1, x_2, x_3]$, ou seja, $\tilde{\beta}_1 \approx \hat{\beta}_1$.
 
-(iii) A RLM.5 prevê que $Var(y|\boldsymbol{x}) = \sigma^2$ Já a variãncia dos betas, pode ser obtida com a seguinte equação:
+(iii) A RLM.5 prevê que $Var(y|\boldsymbol{x}) = \sigma^2$ Já a variância dos betas, pode ser obtida com a seguinte equação:
 
 $$Var(\hat{\beta}_j)=\frac{\sigma^2}{SQT_j(1-R^2_j)}$$
 
@@ -612,6 +612,6 @@ Como, nesse caso, estamos analisando uma situação em que há correlação entr
 
 (iv) Aqui, a situação é a inversa do item (iii). Não sendo $x_1$ correlacionada com $x_2$ e $x_3$, o $R_1^2$ tenderá a ser menor, o que deixará o denominador da equação de $Var(\beta)$ maior, produzindo assim $ep(\tilde{\beta}_1) >ep(\hat{\beta}_1)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MT
-YwMjg3LC01OTY3MDU4MjVdfQ==
+eyJoaXN0b3J5IjpbMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzOD
+QxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1XX0=
 -->
