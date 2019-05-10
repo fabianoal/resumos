@@ -606,10 +606,12 @@ $$\hat{\beta}_1 | y=\tilde{\beta}_0 + \tilde{\beta}_1 x_1 + \tilde{\beta}_2 x_2 
 
 $$Var(\hat{\beta}_1)=\frac{\sigma^2}{SQT_j(1-R^2_j)}$$
 
-Onde $SQT_j=\sum_{i =1}^n(x_{ij} - \bar{x}_{j})^2$ é a variação amostral total em $x_j$, e $R^2_j$
+Onde $SQT_j=\sum_{i =1}^n(x_{ij} - \bar{x}_{j})^2$ é a variação amostral total em $x_j$, e $R^2_j$ é o R-quadrado da regressão $x_j$ sobre todas as outras variáveis independentes.
+
+Como, nesse caso, estamos analisando uma situação em que há correlação entre $x_1$ e $x_2$ e $x_3$, é de se esperar que o %
 
  Nesse caso, a presença de $x_2$ e $x_3$ para cálculo de $\hat{\beta}_1$ contribuiria para diminuir o SQR do modelo como um todo. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NDI0Mjk0LDY0Mzg0MTIyNSw3NzYxNj
+eyJoaXN0b3J5IjpbODU0OTk3MzkwLDY0Mzg0MTIyNSw3NzYxNj
 AyODcsLTU5NjcwNTgyNV19
 -->
