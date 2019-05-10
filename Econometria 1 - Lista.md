@@ -608,10 +608,10 @@ $$Var(\hat{\beta}_1)=\frac{\sigma^2}{SQT_j(1-R^2_j)}$$
 
 Onde $SQT_j=\sum_{i =1}^n(x_{ij} - \bar{x}_{j})^2$ é a variação amostral total em $x_j$, e $R^2_j$ é o R-quadrado da regressão $x_j$ sobre todas as outras variáveis independentes.
 
-Como, nesse caso, estamos analisando uma situação em que há correlação entre $x_1$ e $x_2$ e $x_3$, é de se esperar que o $R^2_1$ será maior, o que tornará o denominador da equação que determina a variância do $\beta$ menor, o que *aumentará* $Var(\hat{\beta}_1)$
+Como, nesse caso, estamos analisando uma situação em que há correlação entre $x_1$ e $x_2$ e $x_3$, é de se esperar que o $R^2_1$ será maior, o que tornará o denominador da equação que determina a variância do $\beta$ menor, o que *aumentará* $Var(\hat{\beta}_1)$. Assim, esperaria-se que $ep(\$
 
  Nesse caso, a presença de $x_2$ e $x_3$ para cálculo de $\hat{\beta}_1$ contribuiria para diminuir o SQR do modelo como um todo. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDc1OTIwNyw2NDM4NDEyMjUsNzc2MT
-YwMjg3LC01OTY3MDU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDI2NzExNjksNjQzODQxMjI1LDc3Nj
+E2MDI4NywtNTk2NzA1ODI1XX0=
 -->
