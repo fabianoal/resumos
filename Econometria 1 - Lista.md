@@ -778,13 +778,17 @@ O coeficiente do termo de interação confirma  a ideia de que o nível de instr
 
 (iii)
 
-A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o que é significante a 95%. Ao mesmo tempo, a estatística $t$ para o termo de interação ficou em $0,0016/0,0012=1,33$, ou seja, ela não permite o descarte da hipótese nula nem a 10%. Assim, ao mesmo tempo que se poderia descartar a hipótese nula de que $edupais$ não influencia em $log(salario)$.
+A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o que é significante a 95%. Ao mesmo tempo, a estatística $t$ para o termo de interação ficou em $0,0016/0,0012=1,33$, ou seja, ela não permite o descarte da hipótese nula nem a 10%. Assim, ao mesmo tempo que se poderia descartar a hipótese nula de que $edupais$ não influencia em $log(salario)$, poder-se-ia descartar o termo de interação entre essas duas variáveis. A equação que não controla o termo de forma independente parece ter enviesado o coeficiente do termo de interação.
+
+## Questão 24
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4NDAxMjA4LC0xNzc5NTkxMzAwLC04Mz
-A1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5
-NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MC
-wtMjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0
-MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5Nj
-gsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMz
-MjM0NzE1MF19
+eyJoaXN0b3J5IjpbLTc5MzgyMTkxOSwtMTc3OTU5MTMwMCwtOD
+MwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0
+OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNT
+AsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5
+NDI4MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OT
+Y4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3Miwz
+MzIzNDcxNTBdfQ==
 -->
