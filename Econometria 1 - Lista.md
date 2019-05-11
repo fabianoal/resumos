@@ -749,10 +749,14 @@ $$vendas = \frac{-0,00030}{2(-0,000000007)} = 21.428,57$$
 
 A partir de $21.428,57$, o efeito marginal de $vendas$ começa a impactar negativamente $pditens$ .
 
-(ii) O termo quadrático apresenta uma estatística $t = 2,33$, ou seja, estatisticamente significante. Por esse motivo, e pelo conhecimento que a questão dos retornos marginais de $$ven
+(ii) O termo quadrático apresenta uma estatística $t = 2,33$, ou seja, estatisticamente significante. Por esse motivo, e pelo conhecimento que a questão dos retornos marginais de $vendas$ trazem à interpretação dos resultados, parece razoável manter o termo.
+
+(iii) 
+
+$$\widehat{pditens} = 2,613/1000 + \frac{0,00030}{1000} vendas$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTgyNjgyOCw1MTA5NTI2NjEsLTc3OT
+eyJoaXN0b3J5IjpbMTgwNzA5ODEwMSw1MTA5NTI2NjEsLTc3OT
 IxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5
 MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MC
 wxOTQyODM0NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0Nzgw
