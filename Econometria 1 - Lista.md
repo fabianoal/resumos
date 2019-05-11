@@ -714,9 +714,10 @@ a) Estatística t de cada coeficiente:
 b) A um nível de significância de 5% bicaudal, a estatística $t$ limite para um $n > 120$ seria de 1,96.  Dessa forma, os três coeficientes são estatisticamente significantes. Os intervalos de confiança são os seguintes:
 
 * $0,417 \pm 1,96 * 0,099 = 0,417 \pm 0,19 = [0,607; 0,227]$
-* $0,08 \pm 1,96 * 0,007 = 0,01372 \pm 0,19 = [0,607; 0,227]$
+* $0,08 \pm 1,96 * 0,007 = 0,08 \pm 0,01372 = [0,066; 0,0937]$
+* $0,029 \pm 1,96 * 0,005 = 0,029 \pm 0,01372 = [0,066; 0,0937]$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzQ3MDE3NywyMjQzMjU1ODIsLTIxMj
+eyJoaXN0b3J5IjpbMTQwODI5MzU0NCwyMjQzMjU1ODIsLTIxMj
 QwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4
 LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMT
 g4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIy
