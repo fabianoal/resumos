@@ -611,7 +611,12 @@ Onde $SQT_j=\sum_{i =1}^n(x_{ij} - \bar{x}_{j})^2$ é a variação amostral tota
 Como, nesse caso, estamos analisando uma situação em que há correlação entre $x_1$ e $x_2$ e $x_3$, é de se esperar que o $R^2_1$ será maior, o que tornará o denominador da equação que determina a variância do $\beta$ menor, o que *aumentará* $Var(\hat{\beta}_1)$. Assim, esperaria-se que $ep(\hat{\beta}_1) >ep(\tilde{\beta}_1)$.
 
 (iv) Aqui, a situação é a inversa do item (iii). Não sendo $x_1$ correlacionada com $x_2$ e $x_3$, o $R_1^2$ tenderá a ser menor, o que deixará o denominador da equação de $Var(\beta)$ maior, produzindo assim $ep(\tilde{\beta}_1) >ep(\hat{\beta}_1)$.
+
+## Questão 15
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzOD
-QxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1XX0=
+eyJoaXN0b3J5IjpbMTQzNjIwMTAwOCwzMzIzNDcxNTAsLTQyNj
+kyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVd
+fQ==
 -->
