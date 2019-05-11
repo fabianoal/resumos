@@ -768,13 +768,13 @@ $$log(salário) = \beta_0 + \beta_1 educ + \beta_2 educ * edupais + \beta_2 expe
 
 $$\frac{\partial log(salario)}{\partial educ} = \beta_1 + \beta_2 edupais$$
 
-Como $educ $
+Da teoria por trás desses dados, poder-se-ia aventar que $educ$ e $edupais$ estão positivamente correlacionados. Assim, um poderia-se esperar um $\beta_2$ negativo para fazer jus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjE4NjY4MCwtODMwNTU2NjMwLC0xOD
-MyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5
-NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjczNz
-gsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAy
-MjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4LC01MjQzNzc2Mj
-MsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIzNDcxNTAsLTQy
-NjkyMjM4N119
+eyJoaXN0b3J5IjpbLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMT
+gzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMz
+OTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mz
+c4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYw
+MjI3MTYyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3Nj
+IzLC0xMDg4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00
+MjY5MjIzODddfQ==
 -->
