@@ -614,9 +614,9 @@ Como, nesse caso, estamos analisando uma situação em que há correlação entr
 
 ## Questão 15
 
-
+(i) Bom, levando-se em conta que um aumento no número de irmãos possa dificultar para os pais 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjIwMTAwOCwzMzIzNDcxNTAsLTQyNj
+eyJoaXN0b3J5IjpbMTE4NzE4OTQ2NywzMzIzNDcxNTAsLTQyNj
 kyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVd
 fQ==
 -->
