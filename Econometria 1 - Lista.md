@@ -671,11 +671,14 @@ $$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n
 * $\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y}) = 3$
 * $\sum_{i=1}^n(x_i - \bar{x})^2 = 2$
 * $\hat{\beta}_1 = 3/2 = 1,5$
+* $\hat{\boldsymbol{y}} = ()$
 
-O resultado obtido indica que para cada unidade
+O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,5.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njg3MjgsNTc5ODI3MzY4LC05NDc4MD
-Q5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcy
-LDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNj
-AyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbMTEyMDQ2NzE5Nyw1Nzk4MjczNjgsLTk0Nz
+gwNDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3
+NzIsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzODQxMjI1LDc3Nj
+E2MDI4NywtNTk2NzA1ODI1XX0=
 -->
