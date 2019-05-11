@@ -720,10 +720,14 @@ b) A um nível de significância de 5% bicaudal, a estatística $t$ limite para 
 c) O impacto de um ano adicional de educação na renda é de 0,08
 
 d) $renda = 0,417 + 0,08 * 10 + 0,029 * 5 = 1,362$
+
+## Questão 19
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTY5Mjg1MiwyMjQzMjU1ODIsLTIxMj
-QwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4
-LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMT
-g4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIy
-NSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0yMT
+I0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNzM2
+OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLT
+E4ODkyMTc3MiwzMzIzNDcxNTAsLTQyNjkyMjM4Nyw2NDM4NDEy
+MjUsNzc2MTYwMjg3LC01OTY3MDU4MjVdfQ==
 -->
