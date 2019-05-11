@@ -764,19 +764,23 @@ A segunda equação nos parece a que produz melhores resultados. Tem melhor ajus
 
 ## Questão 23
 
+(ii)
+
 $$log(salário) = \beta_0 + \beta_1 educ + \beta_2 educ * edupais + \beta_2 exper + zbeta_4 perm +u$$
 
 $$\frac{\partial log(salario)}{\partial educ} = \beta_1 + \beta_2 edupais$$
 
 Da teoria por trás desses dados, poder-se-ia aventar que os salários de filhos de pais com maior nível de instrução tendem a ser maiores do que salários de filhos de pais com baixo nível de instrução. Isso pode se dever a fatores tais como influência dos pais para colocação profissional dos filhos, por exemplo. Dessa forma, esperar-se-ia um sinal positivo para $\beta_2$.
 
+(ii)
 
+O coeficiente do termo de interação confirma  a ideia de que o nível de instrução dos pais potencializa o salário dado o nível de instrução do filho.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzQ5OTA0NywtMTc3OTU5MTMwMCwtOD
-MwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0
-OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNT
-AsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5
-NDI4MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OT
-Y4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3Miwz
-MzIzNDcxNTBdfQ==
+eyJoaXN0b3J5IjpbLTE2NjUzMjE2NDYsLTE3Nzk1OTEzMDAsLT
+gzMDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIx
+NDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5Mj
+UwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwx
+OTQyODM0NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0NzgwND
+k2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3NzIs
+MzMyMzQ3MTUwXX0=
 -->
