@@ -680,7 +680,7 @@ $$\hat{\beta}_0 = \bar{y} - \hat{\beta}_1\bar{x}$$
 
 Calculando $\bar{y}$:
 
-* $n^{-1}\sum \{1,66 + 1,5 * 1;  1,66 + 1,5 * 2; 1,66 + 1,5 * 3\} = \{3,16; 4,66; 6,16\}$
+* $n^{-1}\sum_{i=1}^n (\hat{\beta}_0 + \hat{\beta}_1 x_i ) = 1,66 + 1,5 * 1 +  1,66 + 1,5 * 2 + 1,66 + 1,5 * 3 = 3,16 + 4,66; 6,16\}$
 * $\bar{\boldsymbol{y}} = $
 Calculando $R^2=\frac{SQE}{SQT} = \frac{4.5}{4.66} = 0.96$
 
@@ -693,7 +693,7 @@ O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODgyMTE0NSw2MDIyNzE2MjIsNTc5OD
+eyJoaXN0b3J5IjpbMTE2MjM3MjAwNCw2MDIyNzE2MjIsNTc5OD
 I3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkz
 MSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mz
 g0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
