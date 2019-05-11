@@ -669,9 +669,10 @@ $$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n
 * $\bar{x} = (1+2+3)/3 = 2$
 * $\bar{y} = (3 + 5 + 6)/3 = 4,66$
 * $\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y}) = 3$
+* $\sum_{i=1}^n(x_i - \bar{x}) = 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDk2MjM4NywtOTQ3ODA0OTY4LC01Mj
-QzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIzNDcx
-NTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OT
-Y3MDU4MjVdfQ==
+eyJoaXN0b3J5IjpbNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyND
+M3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1
+MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5Nj
+cwNTgyNV19
 -->
