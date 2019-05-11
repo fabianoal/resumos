@@ -662,6 +662,9 @@ O valor quando $act=20$ é `r coef(fit)["(Intercept)"] + coef(fit)["act"] * 20`
 
 ## Questão 17
 
+Intercepto:
+
+
 Inclinação da reta:
 
 $$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n(x_i - \bar{x})^2}$$
@@ -677,8 +680,8 @@ O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDQ2NzE5Nyw1Nzk4MjczNjgsLTk0Nz
-gwNDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3
-NzIsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzODQxMjI1LDc3Nj
-E2MDI4NywtNTk2NzA1ODI1XX0=
+eyJoaXN0b3J5IjpbLTM4MTc3MjQ2LDU3OTgyNzM2OCwtOTQ3OD
+A0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3
+MiwzMzIzNDcxNTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MT
+YwMjg3LC01OTY3MDU4MjVdfQ==
 -->
