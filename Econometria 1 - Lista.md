@@ -778,9 +778,9 @@ O coeficiente do termo de interação confirma  a ideia de que o nível de instr
 
 (iii)
 
-
+A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o que é significante a um nível
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTQ4NDI2MiwtMTc3OTU5MTMwMCwtOD
+eyJoaXN0b3J5IjpbMjA3MTA4NzcwNiwtMTc3OTU5MTMwMCwtOD
 MwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0
 OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNT
 AsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5
