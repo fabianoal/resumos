@@ -694,10 +694,10 @@ Calculando $R^2$ pelo método $\widehat{cov}(y,\hat{y})^2/[\widehat{var}(y)\wide
 * $Cov(y,\hat{y}) = \sum_{i=1}^n (y_i - \bar{y})(\hat{y}_i - \bar{y}) = 4,5$
 * $Var(y) = \sum_{i=1}^n(y_i - \bar{y})^2 = 4,66$
 * $Var(\hat{y}) = \sum_{i=1}^n(\hat{y}_i - \bar{y})^2 = 4,5$
-*  $\widehat{cov}(y,\hat{y})^2/[\widehat{var}(y)\widehat{var}(\hat{y})]$
+*  $\widehat{cov}(y,\hat{y})^2/[\widehat{var}(y)\widehat{var}(\hat{y})] = \frac{4,5 * 4,5}{4,66 * 4,55} = \frac{4,5}{4,66} = 0,96$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTg4NDc0LDYwMjI3MTYyMiw1Nzk4Mj
+eyJoaXN0b3J5IjpbMTQwNTUwODUxLDYwMjI3MTYyMiw1Nzk4Mj
 czNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMx
 LC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzOD
 QxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1XX0=
