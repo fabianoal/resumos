@@ -708,14 +708,14 @@ $$renda = 0,417 + 0,08educ + 0,029exper$$
 * $n = 526$
 
 a) Estatística t de cada coeficiente:
-* $0,417/0,099 = 4,63$ *
-* $0,08/0,007 = 11,42$
-* $0,029/0,005 = 5,8$
+* $0,417/0,099 = 4,63$ ***
+* $0,08/0,007 = 11,42$ ***
+* $0,029/0,005 = 5,8$ ***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MD
-IyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYy
-MywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtND
-I2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgy
-NV19
+eyJoaXN0b3J5IjpbMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5ND
+I4MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4
+LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMz
+IzNDcxNTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3
+LC01OTY3MDU4MjVdfQ==
 -->
