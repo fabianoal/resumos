@@ -703,10 +703,16 @@ $$renda = 0,417 + 0,08educ + 0,029exper$$
 * $ep(intercepto) = 0,099$
 * $ep(educ) = 0,007$
 * $ep(exper) = 0,005$
+* $R^2 = 0,411$
+* $n = 526$
+
+a) Estatística t de cada coeficiente:
+* $0,417/0,099 = $
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzU2MDkwMCwxOTQyODM0NDI0LDYwMj
-I3MTYyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIz
-LC0xMDg4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00Mj
-Y5MjIzODcsNjQzODQxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTY1MjA2MTMsMTk0MjgzNDQyNCw2MD
+IyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYy
+MywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtND
+I2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgy
+NV19
 -->
