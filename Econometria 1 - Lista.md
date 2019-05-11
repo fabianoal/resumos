@@ -749,14 +749,14 @@ $$vendas = \frac{-0,00030}{2(-0,000000007)} = 21.428,57$$
 
 A partir de $21.428,57$, o efeito marginal de $vendas$ começa a impactar negativamente $pditens$ .
 
-(ii) 
+(ii) O termo quadrático apresenta uma estatística $t = 2,33$, ou seja, estatisticamente significante. Por esse motivo, e pelo conhecimento que a questão dos retornos marginais de $$ven
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4Mz
-UzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEy
-NzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQyNC
-w2MDIyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3
-NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1MC
-wtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5Njcw
-NTgyNV19
+eyJoaXN0b3J5IjpbMTI5MTgyNjgyOCw1MTA5NTI2NjEsLTc3OT
+IxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5
+MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MC
+wxOTQyODM0NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0Nzgw
+NDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3Nz
+IsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzODQxMjI1LDc3NjE2
+MDI4N119
 -->
