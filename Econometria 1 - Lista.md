@@ -760,13 +760,17 @@ $$\widehat{pditens} = 2,613 + 0,30\frac{vendasbil}{1000} vendas + 0,000007\frac{
 
 ## Questão 22
 
+A segunda equação nos parece a que produz melhores resultados. Tem melhor ajustamento, bem como coeficientes com interpretação mais fácil.
+
+## Questão 23
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03Nz
-kyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4
-OTI1MCwtMjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNT
-AsMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4LC05NDc4
-MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNz
-cyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYx
-NjAyODddfQ==
+eyJoaXN0b3J5IjpbLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1MT
+A5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYx
+NjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4Mi
+wtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYwMjI3MTYyMiw1Nzk4
+MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OT
+MxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQz
+ODQxMjI1XX0=
 -->
