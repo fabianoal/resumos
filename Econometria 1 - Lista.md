@@ -625,8 +625,10 @@ $$educA = 10,36 - 0,94 * 0  + 0,131 * 12 + 0,210 * 12 = 14,45$$
 $$educB = 10,36 - 0,94 * 0  + 0,131 * 16 + 0,210 * 16 = 15,81$$
 
 $$educB - educA = 1,36$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMz
-IzNDcxNTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3
-LC01OTY3MDU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMT
+g4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIy
+NSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
 -->
