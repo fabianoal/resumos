@@ -691,16 +691,12 @@ O resultado de $R^2$ mostra que a reta calculada pelo método MQO tem um nível 
 
 Calculando $R^2$ pelo método $\widehat{cov}(y,\hat{y})^2/[\widehat{var}(y)\widehat{var}(\hat{y})]$
 
-* $\sum_{i=1}^n (y_i - \hat{y})(\hat{y}_i - \bar{y})$
-
-**
-
-O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,5.
-
+* $Cov(y,\hat{y}) = \sum_{i=1}^n (y_i - \bar{y})(\hat{y}_i - \bar{y}) = 4,5$
+* $Var(y) = \sum_{i=1}^n($
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjA0MjMxNyw2MDIyNzE2MjIsNTc5OD
-I3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkz
-MSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mz
-g0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbLTE1ODg0Njk4NzQsNjAyMjcxNjIyLDU3OT
+gyNzM2OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5
+MzEsLTE4ODkyMTc3MiwzMzIzNDcxNTAsLTQyNjkyMjM4Nyw2ND
+M4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVdfQ==
 -->
