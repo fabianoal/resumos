@@ -792,13 +792,13 @@ A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o
 
 (i) Para cada cigarro a mais consumido, a criança parece ter um peso 0,44% menor. Dessa forma, para 10 cigarros, a redução de peso seria de 4,4%.
 
-(ii)
+(ii) Espera-se um peso 5,5% maior com significância estatística a 99%.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyOTM1NzY3LC0xNzc5NTkxMzAwLC04Mz
-A1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5
-NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MC
-wtMjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0
-MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5Nj
-gsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMz
-MjM0NzE1MF19
+eyJoaXN0b3J5IjpbLTE3OTEzMjc3MjIsLTE3Nzk1OTEzMDAsLT
+gzMDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIx
+NDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5Mj
+UwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwx
+OTQyODM0NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0NzgwND
+k2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3NzIs
+MzMyMzQ3MTUwXX0=
 -->
