@@ -664,15 +664,18 @@ O valor quando $act=20$ é `r coef(fit)["(Intercept)"] + coef(fit)["act"] * 20`
 
 Inclinação da reta:
 
-$$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n(x_i - \bar{x})}$$
+$$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n(x_i - \bar{x})^2}$$
 
 * $\bar{x} = (1+2+3)/3 = 2$
 * $\bar{y} = (3 + 5 + 6)/3 = 4,66$
 * $\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y}) = 3$
-* $\sum_{i=1}^n(x_i - \bar{x}) = 0$
+* $\sum_{i=1}^n(x_i - \bar{x})^2 = 2$
+* $\hat{\beta}_1 = 3/2 = 1,5$
+
+O resultado obtido indica que para cada unidade
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyND
-M3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1
-MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5Nj
-cwNTgyNV19
+eyJoaXN0b3J5IjpbLTk1Njg3MjgsNTc5ODI3MzY4LC05NDc4MD
+Q5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcy
+LDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNj
+AyODcsLTU5NjcwNTgyNV19
 -->
