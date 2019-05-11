@@ -733,12 +733,16 @@ d)
 
 ## Questão 20
 
-Para verificar se a inclusão de $roe^2$ é necessário, precisamos verificar sua significância estatística, que nesse caso é de $0,00008/0,00026 =  0,3$, ou seja, não se pode descartar a hipótese de que o termo seja zero. Além do mais, su impacto na regressão ($0,00008$) ta. Nesse caso, 
+Para verificar se a inclusão de $roe^2$ é necessário, precisamos verificar sua significância estatística, que nesse caso é de $0,00008/0,00026 =  0,3$, ou seja, não se pode descartar a hipótese de que o termo seja zero. Além do mais, su impacto na regressão ($0,00008$) também é muito pequeno. Nesse caso, a inclusão do termo não se mostra particularmente útil.
+
+## Questão 21
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQwODc3MDAsLTE4MzUzMzk0MTUsLT
-U5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQz
-MjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2Mj
-IsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4
-ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMz
-g3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNT
+kyMTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMy
+NTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYwMjI3MTYyMi
+w1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0xMDg4
+MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00MjY5MjIzOD
+csNjQzODQxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1XX0=
 -->
