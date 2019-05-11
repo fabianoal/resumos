@@ -733,12 +733,12 @@ d)
 
 ## Questão 20
 
-Para verificar se a inclusão de $roe^2$ é necessário, precisamos verificar sua significãncia estatística
+Para verificar se a inclusão de $roe^2$ é necessário, precisamos verificar sua significância estatística, que nesse caso é de 0,00008/0,00026. Nesse caso, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNzI2NjgxLC0xODM1MzM5NDE1LC01OT
-IxNjE2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1
-NTgyLC0yMTI0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAyMjcxNjIyLD
-U3OTgyNzM2OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLTEwODgw
-MzQ5MzEsLTE4ODkyMTc3MiwzMzIzNDcxNTAsLTQyNjkyMjM4Ny
-w2NDM4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTEwMDQwNDk4MTQsLTE4MzUzMzk0MTUsLT
+U5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQz
+MjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2Mj
+IsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4
+ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMz
+g3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
 -->
