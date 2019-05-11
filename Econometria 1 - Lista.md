@@ -662,8 +662,10 @@ O valor quando $act=20$ é `r coef(fit)["(Intercept)"] + coef(fit)["act"] * 20`
 
 ## Questão 17
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0xMD
-g4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00MjY5MjIz
-ODcsNjQzODQxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1XX0=
+eyJoaXN0b3J5IjpbMTcyNjA3ODIxNCwtOTQ3ODA0OTY4LC01Mj
+QzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIzNDcx
+NTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OT
+Y3MDU4MjVdfQ==
 -->
