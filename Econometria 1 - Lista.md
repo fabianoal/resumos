@@ -727,13 +727,13 @@ a) Os coeficientes para as variáveis *masculino*, *formal*, *experiancia2* poss
 
 b) A variável que possui maior impacto é a $anos_est$, com impacto médio de 154,53. Esta é seguida pela variável $experiencia$, com impacto médio de 46,02. Há ainda o impacto  da variável $\_const$ que, apesar de ser a que possui o maior impacto em termos absolutos, parece se tratar de uma variável sem variabilidade (dado que é uma constante). Ela parece ter sido algum tipo de variável instrumental.
 
-c) A estatística F do modelo possui um valor de 8,65. para um n > 120, e com um numerador de $q=(n - k - 1)_{r} - (n - k - 1)_{ir} = 167 - $
+c) A estatística F do modelo possui um valor de 8,65. para um n > 120, e com um numerador de $q=(n - k - 1)_{r} - (n - k - 1)_{ir} = 167 - 1 -1 - 167 + 6 + 1 = 5$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTMxNDA1MSwtMTY2MzU4OTI1MCwtMj
-A5NzEyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0Mjgz
-NDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLT
-UyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0
-NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLT
-U5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbNTA2ODMwNTMyLC0xNjYzNTg5MjUwLC0yMD
+k3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0
+NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNT
+I0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3
+MTUwLC00MjY5MjIzODcsNjQzODQxMjI1LDc3NjE2MDI4NywtNT
+k2NzA1ODI1XX0=
 -->
