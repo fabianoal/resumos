@@ -678,17 +678,18 @@ $$\hat{\beta}_0 = \bar{y} - \hat{\beta}_1\bar{x}$$
 
 * $\hat{\beta}_0 = 4,66 - 1,5 * 2 = 1,66$
 
-Calculando $\bar{y}$:
+Calculando $R^2$ pelo método $SQE/SQT$:
 
 * $\hat{\boldsymbol{y}} = \{1,66 + 1,5 * 1;  1,66 + 1,5 * 2; 1,66 + 1,5 * 3\} = \{3,16; 4,66; 6,16\}$
 
-Calculando $R^2=\frac{SQE}{SQT} = \frac{4.5}{4.66} = 0.96$
+* $SQE = \sum(\hat{y_i} - \bar{y})^2 = 4,5$
+* $SQT = \sum(y_i - \bar{y})^2 = 4,66$
 
-*$SQE = \sum(\hat{y_i} - \bar{y})^2 = 4.5$
-* $SQT = \sum(y_i - \bar{y})^2 = $
+Calculando $R^2=\frac{SQE}{SQT} = \frac{4.5}{4.66} = 0.96$
 
 O resultado de $R^2$ mostra que a reta calculada pelo método MQO tem um nível de ajuste de 96%, ou seja, é uma reta muito bem ajustada aos números.
 
+Calculando $R^2$ pelo método $\hat{cov}$
 
 **
 
@@ -696,8 +697,8 @@ O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzE5MzAwNSw2MDIyNzE2MjIsNTc5OD
-I3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkz
-MSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mz
-g0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbMTcxODQyODM4LDYwMjI3MTYyMiw1Nzk4Mj
+czNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMx
+LC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzOD
+QxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1XX0=
 -->
