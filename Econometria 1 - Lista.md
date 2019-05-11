@@ -41,18 +41,19 @@ Onde:
 * $ATT_i$ é a porcentagem das aulas nas quais o aluno $i$ compareceu;
 * $PS_i$ é a porcentagem das listas de exercícios completadas pelo estudante $i$.
 
-(a) Antes de rodar sua regressão, quais sinais você espera para os coeficientes $\beta_1$ e $\beta_2$? Explique.
+a) Antes de rodar sua regressão, quais sinais você espera para os coeficientes $\beta_1$ e $\beta_2$? Explique.
 
 Resposta: A princípio, seria de se esperar que tanto $\beta_1$ como $\beta_2$ tivessem coeficientes positivos, visto que ambas atividades contribuem para o aprendizado dos alunos.
 
-(b) Claramente interprete os coeficientes $\hat{\beta_1}$ e $\hat{\beta_2}$.
+b) Claramente interprete os coeficientes $\hat{\beta_1}$ e $\hat{\beta_2}$.
 
 Resposta: Os coeficientes $\hat{\beta_1}$ e $\hat{\beta_2}$ são estimadores dos respectivos parâmetros populacionais $\beta_1$ e $\beta_2$.
 
 O Prof Romer estimou a equação acima. Sua base de dados inclui 195 estudantes e obteve as seguintes estimativas:
 
 $$\hat{\beta_0} = 1,07; \hat{\beta_1} = 1,74; \hat{\beta_2}=0,60;R^2 =0,33$$
-(c) Estes sinais satisfazem suas expectativas?
+
+c) Estes sinais satisfazem suas expectativas?
 
 Sim, conforme exposto na resposta (a)
 
@@ -709,9 +710,10 @@ $$renda = 0,417 + 0,08educ + 0,029exper$$
 a) Estatística t de cada coeficiente:
 * $0,417/0,099 = 4,63$ *
 * $0,08/0,007 = 11,42$
+* $0,029/0,005 = 5,8$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkwODcxNzksMTk0MjgzNDQyNCw2MD
+eyJoaXN0b3J5IjpbLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MD
 IyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYy
 MywtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtND
 I2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgy
