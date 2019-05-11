@@ -671,20 +671,24 @@ $$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n
 * $\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y}) = 3$
 * $\sum_{i=1}^n(x_i - \bar{x})^2 = 2$
 * $\hat{\beta}_1 = 3/2 = 1,5$
-* $\hat{\boldsymbol{y}} = ()$
 
 Intercepto
 
 $$\hat{\beta}_0 = \bar{y} - \hat{\beta}_1\bar{x}$$
 
-* $\hat{\beta}_0 = 4,66 - 1,5 * 0$
+* $\hat{\beta}_0 = 4,66 - 1,5 * 2 = 1,66$
+
+Calculando $\bar{\boldsymbol{y}}$:
+
+* $$
+
 
 O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,5.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzkxNDM2Niw1Nzk4MjczNjgsLTk0Nz
-gwNDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3
-NzIsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzODQxMjI1LDc3Nj
-E2MDI4NywtNTk2NzA1ODI1XX0=
+eyJoaXN0b3J5IjpbMzI1OTE0OTMwLDU3OTgyNzM2OCwtOTQ3OD
+A0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3
+MiwzMzIzNDcxNTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MT
+YwMjg3LC01OTY3MDU4MjVdfQ==
 -->
