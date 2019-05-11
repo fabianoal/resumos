@@ -684,7 +684,8 @@ Calculando $\bar{\boldsymbol{y}}$:
 
 Calculando $R^2=\frac{SQE}{SQT} = \frac{4.5}{4.66} = 0.96$
 
-O resultado de $R^2$ mostra que a 
+O resultado de $R^2$ mostra que a reta calculada pelo método MQO tem um nível de ajuste de 96%, ou seja, é uma reta muito bem ajustada aos números.
+
 
 **
 
@@ -692,8 +693,8 @@ O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODk5MjAzMyw2MDIyNzE2MjIsNTc5OD
-I3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkz
-MSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mz
-g0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbLTE4NTAwOTUxNjUsNjAyMjcxNjIyLDU3OT
+gyNzM2OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5
+MzEsLTE4ODkyMTc3MiwzMzIzNDcxNTAsLTQyNjkyMjM4Nyw2ND
+M4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVdfQ==
 -->
