@@ -793,8 +793,12 @@ A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o
 (i) Para cada cigarro a mais consumido, a criança parece ter um peso 0,44% menor. Dessa forma, para 10 cigarros, a redução de peso seria de 4,4%.
 
 (ii) Espera-se um peso 5,5% maior com significância estatística a 99%.
+
+(iii) O efeito estimado é de 0,3%, porém, sem significância estatística nem a 90%. Assim, não é possível descartar a hipótese nula.
+
+(iv) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEzMjc3MjIsLTE3Nzk1OTEzMDAsLT
+eyJoaXN0b3J5IjpbLTE4OTgzMDk2NDcsLTE3Nzk1OTEzMDAsLT
 gzMDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIx
 NDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5Mj
 UwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwx
