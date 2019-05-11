@@ -739,10 +739,13 @@ Para verificar se a inclusão de $roe^2$ é necessário, precisamos verificar su
 
 $\widehat{pditens} = 2,613 + 0,00030 vendas + 0,000000007 vendas^2$
 
-$$max_{vendas} = $$
+$$max_{vendas} = 2,613 + 0,00030 + (0,000000007)vendas^2$$
+
+$$\frac{\partial .}{\partial vendas} = 0,00030 + 2(0,000000007)vendas = 0$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTI2ODY3NywtNzc5MjE0OTQwLC0xOD
+eyJoaXN0b3J5IjpbMTE0MTIyMjk5MywtNzc5MjE0OTQwLC0xOD
 M1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNTAsLTIwOTcx
 MjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5NDI4MzQ0Mj
 QsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4LC01MjQz
