@@ -666,10 +666,12 @@ Inclinação da reta:
 
 $$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n(x_i - \bar{x})}$$
 
-
+* $\bar{x} = (1+2+3)/3 = 2$
+* $\bar{y} = (3 + 5 + 6)/3 = 4,66$
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzMwMjc4NywtOTQ3ODA0OTY4LC01Mj
-QzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIzNDcx
-NTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OT
-Y3MDU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTU5MDE3ODQsLTk0NzgwNDk2OCwtNT
+I0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3
+MTUwLC00MjY5MjIzODcsNjQzODQxMjI1LDc3NjE2MDI4NywtNT
+k2NzA1ODI1XX0=
 -->
