@@ -724,10 +724,11 @@ d) $renda = 0,417 + 0,08 * 10 + 0,029 * 5 = 1,362$
 ## Questão 19
 
 a) Os coeficientes para as variáveis *masculino*, *formal*, *experiancia2* possuem estatísticas $t$ que não permitem descartar a hipótese de que sejam zero a um nível de 5%. Isso fica evidente no intervalo de confiança a 95% para essas variáveis, os quais passam todos pela possibilidade dos respectivos betas serem zero.
-b) A variável que possui maior impacto é a $anos_est$, com impacto médio de 154,53. Esta é seguida pela variável $experiencia$, com impacto médio de 46,02. Há ainda o impacto  da variável $_const$ que, apesar 
+
+b) A variável que possui maior impacto é a $anos_est$, com impacto médio de 154,53. Esta é seguida pela variável $experiencia$, com impacto médio de 46,02. Há ainda o impacto  da variável $\_const$ que, apesar de ser a que possui o maior impacto em termos absolutos, parece se tratar de uma variável sem variabilidade (dado que é uma constante),
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYwODAwNTEsLTE2NjM1ODkyNTAsLT
+eyJoaXN0b3J5IjpbLTE1MDYzNDcyNDIsLTE2NjM1ODkyNTAsLT
 IwOTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5NDI4
 MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4LC
 01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIz
