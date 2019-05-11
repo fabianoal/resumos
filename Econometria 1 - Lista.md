@@ -733,9 +733,9 @@ d)
 
 ## Questão 20
 
-Para verificar se a inclusão de $roe^2$ é necessário, precisamos verificar sua significância estatística, que nesse caso é de 0,00008/0,00026. Nesse caso, 
+Para verificar se a inclusão de $roe^2$ é necessário, precisamos verificar sua significância estatística, que nesse caso é de $0,00008/0,00026 =  0,3$, ou seja, não se pode descartar a hipótese de que o termo seja zero. Além do mais, su impacto na regressão ($0,00008$) ta. Nesse caso, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQwNDk4MTQsLTE4MzUzMzk0MTUsLT
+eyJoaXN0b3J5IjpbLTE5NTQwODc3MDAsLTE4MzUzMzk0MTUsLT
 U5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQz
 MjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2Mj
 IsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4
