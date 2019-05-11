@@ -723,13 +723,14 @@ d) $renda = 0,417 + 0,08 * 10 + 0,029 * 5 = 1,362$
 
 ## Questão 19
 
-a)
-Os coeficientes para as variáveis *masculino*, *formal*, *experiancia2* possuem estatísticas $t$ que não permitem descartar a hipótese de que sejam zero a um nível de 5%. Isso fica evidente no intervalo de confiança a 95% para essas variáveis 
+a) Os coeficientes para as variáveis *masculino*, *formal*, *experiancia2* possuem estatísticas $t$ que não permitem descartar a hipótese de que sejam zero a um nível de 5%. Isso fica evidente no intervalo de confiança a 95% para essas variáveis, os quais passam todos pela possibilidade dos respectivos betas serem zero.
+b)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMj
-I0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAyMjcx
-NjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLT
-EwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIzNDcxNTAsLTQyNjky
-MjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE5MjI5ODM0NDYsLTE2NjM1ODkyNTAsLT
+IwOTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5NDI4
+MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4LC
+01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIz
+NDcxNTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC
+01OTY3MDU4MjVdfQ==
 -->
