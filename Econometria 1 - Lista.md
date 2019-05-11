@@ -785,8 +785,12 @@ A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o
 (i) A estatística $t$ para $masculino$ é de $87,75/34,33 = 2,55$, ou seja, ela guarda significância estatística a 99%. Assim, a evidência é forte no sentido de que o fato de ser homem implica em maior quantidade de minutos de sono.
 
 (ii) O coeficiente de $trabtot$ é de $-0,163$ com estatística $t=0,163/0,018 = 9,05$, ou seja,com significância estatística a mais de 99%. Assim, existe forte evidência de uma relação de substituição entre $trabtot$ e $dormir$.
+
+(iii) Pode-se realizar um teste $F$ com $\beta_3 = \beta_4 = 0$
+
+## Quest
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIzMzQ1NTEsLTE3Nzk1OTEzMDAsLT
+eyJoaXN0b3J5IjpbLTEzNjc1MDMyMDMsLTE3Nzk1OTEzMDAsLT
 gzMDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIx
 NDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5Mj
 UwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwx
