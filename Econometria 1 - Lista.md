@@ -616,9 +616,13 @@ Como, nesse caso, estamos analisando uma situação em que há correlação entr
 
 (i) Partindo da hipótese de que os pais tem uma certa capacidade de manter os filhos estudando sem necessidade de trabalhar, um aumento no número de filhos acaba por distribuir essa capacidade  entre eles, o que pode configurar um fator de diminuição no número de anos de educação de filhos que tem mais irmãos. Para que a quantidade de irmãos signifique um ano a menos de educação, a seguinte formulação matemática deve ser feita: $irms=\frac{educ - (educ - 1)}{-0,094} = 10,63$
 
-(ii) Pelos coeficientes da equação, entendemos que a quantidade de anos de educação formal da mãe tem menos influência na quantidade de anos de educação formal dos filhos do que a quantidade de anos de educação formal do pai. Como o arquivo utilizado trata somente a res
+(ii) Pelos coeficientes da equação, entendemos que a quantidade de anos de educação formal da mãe tem menos influência na quantidade de anos de educação formal dos filhos do que a quantidade de anos de educação formal do pai. Como o arquivo utilizado trata somente de homens, poder-se-ia aventar a possibilidade de que o nível de educação formal do pai tem mais influência sobre filhos homens do que o da mãe.
+
+(iii) 
+
+$$educA = 10,36 -  $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjIzMTI0MSwtMTg4OTIxNzcyLDMzMj
+eyJoaXN0b3J5IjpbLTg3MjE4NDAxMCwtMTg4OTIxNzcyLDMzMj
 M0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYxNjAyODcs
 LTU5NjcwNTgyNV19
 -->
