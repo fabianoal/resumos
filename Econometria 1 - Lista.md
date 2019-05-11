@@ -753,14 +753,15 @@ A partir de $21.428,57$, o efeito marginal de $vendas$ começa a impactar negati
 
 (iii) 
 
-$$\widehat{pditens} = 2,613 + 1000\frac{0,00030}{1000} vendas + \frac{0,000000007}{1000^2}$$
+$$\widehat{pditens} = 2,613 + 0,30\frac{vendasbil}{1000} vendas + 0,000007\frac{vendasbil^2}{1000^2}$$
 
+(iv) A segunda opção possui coeficientes com menos zeros, o que facilita a interp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ1OTQzNjcsNTEwOTUyNjYxLC03Nz
-kyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4
-OTI1MCwtMjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNT
-AsMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4LC05NDc4
-MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIxNz
-cyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3NzYx
-NjAyODddfQ==
+eyJoaXN0b3J5IjpbMTkzNjYyODI5OCw1MTA5NTI2NjEsLTc3OT
+IxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5
+MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MC
+wxOTQyODM0NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0Nzgw
+NDk2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3Nz
+IsMzMyMzQ3MTUwLC00MjY5MjIzODcsNjQzODQxMjI1LDc3NjE2
+MDI4N119
 -->
