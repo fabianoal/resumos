@@ -715,9 +715,11 @@ b) A um nível de significância de 5% bicaudal, a estatística $t$ limite para 
 
 * $0,417 \pm 1,96 * 0,099 = 0,417 \pm 0,19 = [0,607; 0,227]$
 * $0,08 \pm 1,96 * 0,007 = 0,08 \pm 0,01372 = [0,066; 0,0937]$
-* $0,029 \pm 1,96 * 0,005 = 0,029 \pm 0,01372 = [0,066; 0,0937]$
+* $0,029 \pm 1,96 * 0,005 = 0,029 \pm 0,0098 = [0,0192; 0,0388]$
+
+c) O impacto de um ano adicional de educação na renda é de 0,08
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODI5MzU0NCwyMjQzMjU1ODIsLTIxMj
+eyJoaXN0b3J5IjpbMTc5NzMwNTQwMCwyMjQzMjU1ODIsLTIxMj
 QwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4
 LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMT
 g4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIy
