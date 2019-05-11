@@ -614,9 +614,9 @@ Como, nesse caso, estamos analisando uma situação em que há correlação entr
 
 ## Questão 15
 
-(i) Partindo da hipótese de que os pais tem uma certa capacidade de manter os filhos estudando sem necessidade de trabalhar, um aumento no número de filhols de acaba por distribuir a capacidade dos pais de manter os filhos estudando irmãos possa dificultar para os pais 
+(i) Partindo da hipótese de que os pais tem uma certa capacidade de manter os filhos estudando sem necessidade de trabalhar, um aumento no número de filhos acaba por distribuir essa capacidade  entre eles, o que pode configurar um fator de diminuição no número de anos de educação de filhos que tem mais irmãos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjMyNjI0OCwzMzIzNDcxNTAsLTQyNj
+eyJoaXN0b3J5IjpbLTE4ODkyMTc3MiwzMzIzNDcxNTAsLTQyNj
 kyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVd
 fQ==
 -->
