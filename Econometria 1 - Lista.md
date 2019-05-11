@@ -698,9 +698,15 @@ Calculando $R^2$ pelo método $\widehat{cov}(y,\hat{y})^2/[\widehat{var}(y)\wide
 
 ## Questão 18
 
+$$renda = 0,417 + 0,08educ + 0,029exper$$
+
+* $ep(intercepto) = 0,099$
+* $ep(educ) = 0,007$
+* $ep(exper) = 0,005$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5OD
-I3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkz
-MSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mz
-g0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbMTMyNzU2MDkwMCwxOTQyODM0NDI0LDYwMj
+I3MTYyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIz
+LC0xMDg4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00Mj
+Y5MjIzODcsNjQzODQxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1
+XX0=
 -->
