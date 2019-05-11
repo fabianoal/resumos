@@ -662,9 +662,13 @@ O valor quando $act=20$ é `r coef(fit)["(Intercept)"] + coef(fit)["act"] * 20`
 
 ## Questão 17
 
+Inclinação da reta:
+
+$$\hat{\beta}_1 = \frac{\sum_{i=1}^n(x_i - \bar{x})(y_i - \bar{y})}{\sum_{i=1}^n(x_i - \bar{x})}$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjA3ODIxNCwtOTQ3ODA0OTY4LC01Mj
+eyJoaXN0b3J5IjpbLTMzMzMwMjc4NywtOTQ3ODA0OTY4LC01Mj
 QzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3MiwzMzIzNDcx
 NTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OT
 Y3MDU4MjVdfQ==
