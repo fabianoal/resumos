@@ -767,12 +767,14 @@ A segunda equação nos parece a que produz melhores resultados. Tem melhor ajus
 $$log(salário) = \beta_0 + \beta_1 educ + \beta_2 educ * edupais + \beta_2 exper + zbeta_4 perm +u$$
 
 $$\frac{\partial log(salario)}{\partial educ} = \beta_1 + \beta_2 edupais$$
+
+Seria a elasticidade do aumento percentual do salário em relação ao aumento nos anos de educação formal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MTM1NjQ3LC04MzA1NTY2MzAsLTE4Mz
-I3NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0
-MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OC
-wyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MDIy
-NzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMy
-wtMTA4ODAzNDkzMSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2
-OTIyMzg3XX0=
+eyJoaXN0b3J5IjpbLTE4Mjk2MTIwNjksLTgzMDU1NjYzMCwtMT
+gzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMz
+OTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mz
+c4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYw
+MjI3MTYyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3Nj
+IzLC0xMDg4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00
+MjY5MjIzODddfQ==
 -->
