@@ -778,13 +778,13 @@ O coeficiente do termo de interação confirma  a ideia de que o nível de instr
 
 (iii)
 
-A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o que é significante a um nível
+A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o que é significante a 95%. Dessa forma, poder-se-ia descartar a hipótese nula de que $edupais$ não influencia em $log(salario)$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTA4NzcwNiwtMTc3OTU5MTMwMCwtOD
-MwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0
-OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNT
-AsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5
-NDI4MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OT
-Y4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3Miwz
-MzIzNDcxNTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NDUxMTYxMTAsLTE3Nzk1OTEzMDAsLT
+gzMDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIx
+NDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5Mj
+UwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwx
+OTQyODM0NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0NzgwND
+k2OCwtNTI0Mzc3NjIzLC0xMDg4MDM0OTMxLC0xODg5MjE3NzIs
+MzMyMzQ3MTUwXX0=
 -->
