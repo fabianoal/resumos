@@ -680,15 +680,18 @@ $$\hat{\beta}_0 = \bar{y} - \hat{\beta}_1\bar{x}$$
 
 Calculando $\bar{\boldsymbol{y}}$:
 
-* $\{1,66 + 1,5 * 1,  1,66 + 1,5 * 2, 1,66 + 1,5 * 3\} = \{3,16, 4,66\}$
+* $\{1,66 + 1,5 * 1;  1,66 + 1,5 * 2; 1,66 + 1,5 * 3\} = \{3,16; 4,66; 6,16\}$
 
+Calculando $R^2$
+
+**
 
 O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,5.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY3MDI2MDUsNTc5ODI3MzY4LC05ND
-c4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMTg4OTIx
-NzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIyNSw3Nz
-YxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3OD
+A0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEsLTE4ODkyMTc3
+MiwzMzIzNDcxNTAsLTQyNjkyMjM4Nyw2NDM4NDEyMjUsNzc2MT
+YwMjg3LC01OTY3MDU4MjVdfQ==
 -->
