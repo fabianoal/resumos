@@ -614,9 +614,9 @@ Como, nesse caso, estamos analisando uma situação em que há correlação entr
 
 ## Questão 15
 
-(i) Bom, levando-se em conta que um aumento no número de irmãos possa dificultar para os pais 
+(i) Partindo da hipótese de que os pais tem uma certa capacidade de manter os filhos estudando sem necessidade de trabalhar, um aumento no número de filhols de acaba por distribuir a capacidade dos pais de manter os filhos estudando irmãos possa dificultar para os pais 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzE4OTQ2NywzMzIzNDcxNTAsLTQyNj
+eyJoaXN0b3J5IjpbMTI1NjMyNjI0OCwzMzIzNDcxNTAsLTQyNj
 kyMjM4Nyw2NDM4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVd
 fQ==
 -->
