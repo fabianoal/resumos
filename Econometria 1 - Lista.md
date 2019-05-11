@@ -680,7 +680,8 @@ $$\hat{\beta}_0 = \bar{y} - \hat{\beta}_1\bar{x}$$
 
 Calculando $\bar{y}$:
 
-* $n^{-1}\sum_{i=1}^n (\hat{\beta}_0 + \hat{\beta}_1 x_i ) = 1,66 + 1,5 * 1 +  1,66 + 1,5 * 2 + 1,66 + 1,5 * 3 = 3,16 + 4,66; 6,16\}$
+* $\hat{\boldsymbol{y}} = \{\}$
+* $n^{-1}\sum_{i=1}^n (\hat{\beta}_0 + \hat{\beta}_1 x_i ) = n^{-1}(1,66 + 1,5 * 1 +  1,66 + 1,5 * 2 + 1,66 + 1,5 * 3) = n^{-1}(3,16 + 4,66 + 6,16)$
 * $\bar{\boldsymbol{y}} = $
 Calculando $R^2=\frac{SQE}{SQT} = \frac{4.5}{4.66} = 0.96$
 
@@ -693,8 +694,8 @@ O resultado obtido indica que para cada unidade a mais de $x$, $y$ aumenta em 1,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjM3MjAwNCw2MDIyNzE2MjIsNTc5OD
-I3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkz
-MSwtMTg4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mz
-g0MTIyNSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbLTIxMTA3MzU3NDEsNjAyMjcxNjIyLDU3OT
+gyNzM2OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5
+MzEsLTE4ODkyMTc3MiwzMzIzNDcxNTAsLTQyNjkyMjM4Nyw2ND
+M4NDEyMjUsNzc2MTYwMjg3LC01OTY3MDU4MjVdfQ==
 -->
