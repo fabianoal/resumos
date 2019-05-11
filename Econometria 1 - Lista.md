@@ -626,9 +626,44 @@ $$educB = 10,36 - 0,94 * 0  + 0,131 * 16 + 0,210 * 16 = 15,81$$
 
 $$educB - educA = 1,36$$
 
+## Questão 16
+
+```{r}
+supgpa = c(2.8, 3.4, 3.0, 3.5, 3.6, 3.0, 2.7, 3.7)
+act = c(21, 24, 26, 27, 29, 25, 25, 30)
+
+length(supgpa)
+length(act)
+fit <- lm(supgpa ~ act)
+summary(fit)
+```
+
+A partir da regressão acima, identifica-se que $act$ está positivamente correlacionado com $supGPA$ (coeficiente `r coef(fit)["act"]`). Isso indica que quanto melhor a nota de ingresso do aluno, melhor é sua nota média durante o curso. O intercepto aqui praticamente não tem significado. Ele fica perto de zero e as escalas das notas são diferentes. Como um aluno com nota zero não entraria no curso superior, o intercepto (valor de $E[supGPA|act = 0]$) parece não ter relevância. Caso $act$ aumentasse cinco pontos, o valor de $supGPA$ aumentaria de acordo com a equação:
+
+$$gpa = \beta_0 + \beta_1(act + 5)$$ 
+
+$$ gpa = \beta_0 + 5\beta_1 + \beta_1 act $$ 
+
+$$ gpa = 0,56 + 0,10 * 5 + 0,10 act =  1,06 + 0,10 act$$
+
+(ii)
+
+* Valores estimados: `r fit$fitted.values`
+
+* Resíduos: `r fit$residuals`
+
+* Soma dos resíduos: `r sum(fit$residuals)`
+
+(iii)
+
+O valor quando $act=20$ é `r coef(fit)["(Intercept)"] + coef(fit)["act"] * 20`
+
+(iv) `r summary(fit)$r.squared`. O valor de $R^2$ mostra o quão ajsutado o modelo está aos dados. Nesse caso, aproximadamente 57% da variação foi capturada pelos coeficientes produzidos pelo modelo.
+
+## Questão 17
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwtMT
-g4OTIxNzcyLDMzMjM0NzE1MCwtNDI2OTIyMzg3LDY0Mzg0MTIy
-NSw3NzYxNjAyODcsLTU5NjcwNTgyNV19
+eyJoaXN0b3J5IjpbLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0xMD
+g4MDM0OTMxLC0xODg5MjE3NzIsMzMyMzQ3MTUwLC00MjY5MjIz
+ODcsNjQzODQxMjI1LDc3NjE2MDI4NywtNTk2NzA1ODI1XX0=
 -->
