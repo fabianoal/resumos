@@ -899,19 +899,19 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 (i) Provavelmente, a aceitação para o programa de merenda escolar depende de algum tipo de comprovação de necessidade, o que seria um proxy razoável para o identificação da condição de pobreza.
 
-(ii) O efeito de $gasto$ na coluna dois exibe estatística $t = 7,75/3,04 = 2,54$, ou seja, têm significância estatística a 1%. No modelo da coluna 1 (sem a variável pobreza), o valor de $gasto$ está enviesado, visto ser o fator renda de suma importância para o desempenho escolar.
+(ii) O efeito de $gasto$ na coluna dois exibe estatística $t = 7,75/3,04 = 2,54$, ou seja, têm significância estatística a 5%. No modelo da coluna 1 (sem a variável pobreza), o valor de $gasto$ está enviesado, visto ser o fator renda de suma importância para o desempenho escolar.
 
-(iii) Com estatística $t=-1,26/0,58 = 2,17$, o que já daria significância estatística para um $n >= 10$ a 5% bicaudal, o modelo indica que um aumento de 1% no número de matriculados na escola está relacionado a uma diminuição de 1,26 pontos percentuais na quantidade de alunos aprovados. Esse valor parece bastante alto, o que 
+(iii) Com estatística $t=-1,26/0,58 = 2,17$, o que já daria significância estatística  a 5% bicaudal, o modelo indica que um aumento de 1% no número de matriculados na escola está relacionado a uma diminuição de 1,26 pontos percentuais na quantidade de alunos aprovados. Esse valor parece bastante alto, o que 
 
 (iv) Para cada ponto percentual a mais de alunos pobres, existe uma diminuição de 0,32 pontos percentuais de alunos aprovados no teste.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY4ODQ5MzMsLTEwNjA0NjUxNzgsLT
-E1MjU4NDEwNjQsLTE5NzA1OTQxMTksLTExOTM0NTQzMzQsODM3
-MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkzMT
-QyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMzAwLC04MzA1NTY2MzAs
-LTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4Mz
-UzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEy
-NzM3OCwyMjQzMjU1ODJdfQ==
+eyJoaXN0b3J5IjpbLTcwNjM2MTI1LC0xMDYwNDY1MTc4LC0xNT
+I1ODQxMDY0LC0xOTcwNTk0MTE5LC0xMTkzNDU0MzM0LDgzNzIx
+Nzc0LC0xNzE2MzgyOTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0Mi
+wtMTIzNTY2MTEwNSwtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0x
+ODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0OTQwLC0xODM1Mz
+M5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjcz
+NzgsMjI0MzI1NTgyXX0=
 -->
