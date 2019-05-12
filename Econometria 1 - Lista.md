@@ -923,12 +923,16 @@ $exper = \frac{- 0,0410089}{-2 \cdot(0,0007136)}=28,73$
 (i) A diferença percentual é dada pelo coeficiente de $negro$ (-0,188). Esse coeficiente tem estatística $t = -0,188/0,038 = -4,94$, ou seja, apresenta significância estatística a 99%.
 
 (ii) $0,0094 - 0,189 = -0,1796 = -17\%$
+
+## Questão 35
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA0MDYxNjksNzM1OTc4ODc3LDExMj
-I5Mzk0MywtNzA2MzYxMjUsLTEwNjA0NjUxNzgsLTE1MjU4NDEw
-NjQsLTE5NzA1OTQxMTksLTExOTM0NTQzMzQsODM3MjE3NzQsLT
-E3MTYzODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1
-NjYxMTA1LC0xNzc5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3Nz
-cyNzUsNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MTUs
-LTU5MjE2MTY1NV19
+eyJoaXN0b3J5IjpbMTgzMjI3NzI0MSw3MzU5Nzg4NzcsMTEyMj
+kzOTQzLC03MDYzNjEyNSwtMTA2MDQ2NTE3OCwtMTUyNTg0MTA2
+NCwtMTk3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMT
+cxNjM4MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2
+NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3Nz
+I3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwt
+NTkyMTYxNjU1XX0=
 -->
