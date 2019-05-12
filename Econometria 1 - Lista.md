@@ -830,16 +830,16 @@ Como esse coeficiente envolve várias variáveis, não é possível realizar um 
 
 (ii) A diferença exata é dada por $100 * [exp(-0,283) - 1] = -24.64802$. O valor é um pouco menor que o valor aproximado obtido em (i).
 
-(iii) A diferença seria dada pela diferença entre os coeficientes. $0,181 - 0,158 = 0,23$. Para verificar se essa diferença é estatisticamente significante, poder-se-ia trabalhar o seguinte modelo:
+(iii) A diferença seria dada pela diferença entre os coeficientes. $0,181 - 0,158 = 0,23 = 23\%$. Para verificar se essa diferença é estatisticamente significante, poder-se-ia trabalhar o seguinte modelo:
 
 $$\widehat{log(salário)} = \beta_0 + \beta_1 log(vendas) + \beta_2 roe + \beta_3 financeira + \beta_4 prodcons + \beta_5 financeira \cdot prodcons + \beta_6 servpub$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ1MTIzNzcsODM3MjE3NzQsLTE3MT
-YzODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYx
-MTA1LC0xNzc5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNz
-UsNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5
-MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQzMj
-U1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2MjIs
-NTc5ODI3MzY4XX0=
+eyJoaXN0b3J5IjpbNjM4MjY5NDE0LDgzNzIxNzc0LC0xNzE2Mz
+gyOTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEw
+NSwtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LD
+UxMDk1MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIx
+NjE2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NT
+gyLC0yMTI0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAyMjcxNjIyLDU3
+OTgyNzM2OF19
 -->
