@@ -934,13 +934,15 @@ $cerveja/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/r
 
 ## Questão 36
 
-(i) $f(z) = \beta_0 + \delta_0 d + \beta_1 z + \delta_1 d\cdot z + u$
+(i) $f(z) = \beta_0 + \delta_0 d + \beta_1 z + \delta_1 d\cdot z$
+
+(ii)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDY3NjI4NCwxOTgzOTI2MjcyLDEyMj
-k1Njg2NDIsMTgzMjI3NzI0MSw3MzU5Nzg4NzcsMTEyMjkzOTQz
-LC03MDYzNjEyNSwtMTA2MDQ2NTE3OCwtMTUyNTg0MTA2NCwtMT
-k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
-MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
-UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
-MTA5NTI2NjFdfQ==
+eyJoaXN0b3J5IjpbMTA5MDYxOTMxOSwxNjAwNjc2Mjg0LDE5OD
+M5MjYyNzIsMTIyOTU2ODY0MiwxODMyMjc3MjQxLDczNTk3ODg3
+NywxMTIyOTM5NDMsLTcwNjM2MTI1LC0xMDYwNDY1MTc4LC0xNT
+I1ODQxMDY0LC0xOTcwNTk0MTE5LC0xMTkzNDU0MzM0LDgzNzIx
+Nzc0LC0xNzE2MzgyOTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0Mi
+wtMTIzNTY2MTEwNSwtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0x
+ODMyNzc3Mjc1XX0=
 -->
