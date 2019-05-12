@@ -840,11 +840,13 @@ Nesse caso, a base seria o setor financeiro.
 
 (i)
 
-* $t_{npGPA} = 0,9/0,175 = 5,14$
-* $t_{npGPA_{r}} = 0,9/0,166 = 5,14$
+* $t_{npGPA} = 0,9/0,175 = 5,14$ ***
+* $t_{npGPA_{r}} = 0,9/0,166 = 5,42$ ***
+* $t_{aumfGPA} = 0,193/0,064 = 0$ ***
+* $t_{aumfGPA_{r}} = 0,193/0,074 = 0$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTQ4ODM5MSwtMTE5MzQ1NDMzNCw4Mz
+eyJoaXN0b3J5IjpbMTg3NDI5MTAxMCwtMTE5MzQ1NDMzNCw4Mz
 cyMTc3NCwtMTcxNjM4MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMx
 NDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMC
 wtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgz
