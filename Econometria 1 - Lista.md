@@ -909,14 +909,14 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 ## Questão 33
 
-(i)
+(i) $t = 0,0007136/0,0001158 = 6,16$, Apesar de não constar o número de amostras, muito provavelmente, o coeficiente possui significância estatística. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzEwMTAwLC03MDYzNjEyNSwtMTA2MD
-Q2NTE3OCwtMTUyNTg0MTA2NCwtMTk3MDU5NDExOSwtMTE5MzQ1
-NDMzNCw4MzcyMTc3NCwtMTcxNjM4MjkxMiwtMTY0OTY0MjIwLC
-0zNzE3OTMxNDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgz
-MDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxND
-k0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUw
-LC0yMDk3MTI3Mzc4XX0=
+eyJoaXN0b3J5IjpbMTg5MzM1NTc3NSwtNzA2MzYxMjUsLTEwNj
+A0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1OTQxMTksLTExOTM0
+NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2NDIyMC
+wtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMzAwLC04
+MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03NzkyMT
+Q5NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1
+MCwtMjA5NzEyNzM3OF19
 -->
