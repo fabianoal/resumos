@@ -899,14 +899,14 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 (i) Provavelmente, a aceitação para o programa de merenda escolar depende de algum tipo de comprovação de necessidade, o que seria um proxy razoável para o identificação da condição de pobreza.
 
-(ii) O efeito de $gasto
+(ii) O efeito de $gasto$ na coluna dois exibe estatística $t = 7,75/3,04 = 2,54$, ou seja, possui significãncia estatísitca
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc1ODEyMDUsLTE1MjU4NDEwNjQsLT
-E5NzA1OTQxMTksLTExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYz
-ODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMT
-A1LC0xNzc5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUs
-NTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5Mj
-E2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQzMjU1
-ODIsLTIxMjQwNDgwNTBdfQ==
+eyJoaXN0b3J5IjpbMTc0MzY0NzI4OCwtMTUyNTg0MTA2NCwtMT
+k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
+MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
+UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
+MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMT
+YxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4
+MiwtMjEyNDA0ODA1MF19
 -->
