@@ -832,14 +832,18 @@ Como esse coeficiente envolve várias variáveis, não é possível realizar um 
 
 (iii) A diferença seria dada pela diferença entre os coeficientes. $0,181 - 0,158 = 0,23 = 23\%$. Para verificar se essa diferença é estatisticamente significante, poder-se-ia trabalhar o seguinte modelo:
 
-$$\widehat{log(salário)} = \beta_0 + \beta_1 log(vendas) + \beta_2 roe +  \beta_3 prodcons + \beta_4 transporte \beta_6 servpub$$
+$$\widehat{log(salário)} = \beta_0 + \beta_1 log(vendas) + \beta_2 roe +  \beta_3 prodcons + \beta_4 transporte + \beta_5 servpub$$
+
+Nesse caso, a base seria o setor financeiro.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODgxNDcwMCw4MzcyMTc3NCwtMTcxNj
-M4MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjEx
-MDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NS
-w1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTky
-MTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNT
-U4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYwMjI3MTYyMiw1
-Nzk4MjczNjhdfQ==
+eyJoaXN0b3J5IjpbNTYxOTM2MzM4LDgzNzIxNzc0LC0xNzE2Mz
+gyOTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEw
+NSwtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LD
+UxMDk1MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIx
+NjE2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NT
+gyLC0yMTI0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAyMjcxNjIyLDU3
+OTgyNzM2OF19
 -->
