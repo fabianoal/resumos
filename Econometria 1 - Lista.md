@@ -893,10 +893,14 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 (i) A variável indicaria que a cada ponto percentual a mais do candidato nas eleições de 88, isso implicaria em 0,067 pontos percentuais a mais na eleição de 90. Com estatística $t = 0,067/0,053 = 1,26$, não se pode descartar a hipótese de que essa variável tenha coeficiente 0 mesmo a 10%. 
 
-(ii) A inclusão de $votoA88$ produziu alterações pequenas nos demais coeficientes e erros padrões.
+(ii) A inclusão de $votoA88$ produziu alterações pequenas nos demais coeficientes e erros padrão.
+
+## Questão 32
+
+(i)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY1MTExNiwtMTUyNTg0MTA2NCwtMT
+eyJoaXN0b3J5IjpbLTE1OTMzNjY0OCwtMTUyNTg0MTA2NCwtMT
 k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
 MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
 UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
