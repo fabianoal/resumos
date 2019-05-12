@@ -802,7 +802,7 @@ A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o
 
 (i) O coeficiente de $tamclas^2$ tem uma estatística $t = 2,19/0,53 = 4,13$, o que a torna estatisticamente significante a mais de 99,5%. Dessa forma, existe sim evidência de que sua inclusão no modelo é necessária.
 
-(ii) 
+O tamanho ótimo da classe é dado por:
 
 $\max_{tamclass} 1028,10 + 19,30 tamclas - 2,19 tamclas^2 - 45,09 feminino - 169,81 negro + 62,31 feminino \cdot negro$
 
@@ -814,15 +814,15 @@ $tamclas = \frac{19,30}{2 \cdot 2,19}$
 
 $tamclas^* = 4,40$
 
-(iii) A diferença estimada é o coeficiente da variável $negro = -169,81$, cuja estatística $t = -169,81/12,71 = -13,36$, ou seja, com significância estatística a mais de 99%. Nesse caso, pode-se descartar a hipótese nula.
+(ii) A diferença estimada é o coeficiente da variável $negro = -169,81$, cuja estatística $t = -169,81/12,71 = -13,36$, ou seja, com significância estatística a mais de 99%. Nesse caso, pode-se descartar a hipótese nula.
 
 (iv) A diferença é o coeficiente da interação entre as variáveis $feminino$ e $negro$, que é de $62,31$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTc5MzE0MiwtMTIzNTY2MTEwNSwtMT
-c3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1
-MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NT
-UsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0y
-MTI0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNz
-M2OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEs
-LTE4ODkyMTc3Ml19
+eyJoaXN0b3J5IjpbNzE4ODE1ODY1LC0zNzE3OTMxNDIsLTEyMz
+U2NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3
+NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNS
+wtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIy
+NDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYwMjI3MT
+YyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0x
+MDg4MDM0OTMxXX0=
 -->
