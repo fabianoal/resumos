@@ -804,9 +804,11 @@ A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o
 
 (ii) 
 
-$\max_{tamclass} 1028,10 + 19,30 tamclas - 2,19 tamclas^2 - 45,09 feminino - 169,81 negro + 62,31 feminino \dot negro$
+$\max_{tamclass} 1028,10 + 19,30 tamclas - 2,19 tamclas^2 - 45,09 feminino - 169,81 negro + 62,31 feminino \cdot negro$
+
+$\frac{\partial \cdot}{\partial tamclas} = 19,30 - 2 \cdot 2,19$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjU4MDUyNCwtMTIzNTY2MTEwNSwtMT
+eyJoaXN0b3J5IjpbMTQ2MjQyOTM2MSwtMTIzNTY2MTEwNSwtMT
 c3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1
 MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NT
 UsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0y
