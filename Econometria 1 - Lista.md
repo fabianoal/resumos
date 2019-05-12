@@ -934,9 +934,9 @@ $cerveja/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/r
 
 ## Questão 36
 
-
+(i) $f(z) = \beta_0 + \delta_0 d + \beta_1 z + \delta_1 d\cdot z + u$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTQxODk5NywxOTgzOTI2MjcyLDEyMj
+eyJoaXN0b3J5IjpbMTYwMDY3NjI4NCwxOTgzOTI2MjcyLDEyMj
 k1Njg2NDIsMTgzMjI3NzI0MSw3MzU5Nzg4NzcsMTEyMjkzOTQz
 LC03MDYzNjEyNSwtMTA2MDQ2NTE3OCwtMTUyNTg0MTA2NCwtMT
 k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
