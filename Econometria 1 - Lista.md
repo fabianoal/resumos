@@ -838,19 +838,21 @@ Nesse caso, a base seria o setor financeiro.
 
 ## Questão 28
 
-(i)
+(i) Conforme mostrado abaixo, npGPA e aumfGPA são significatnes
 
 * $t_{npGPA} = 0,9/0,175 = 5,14$ **
 * $t_{npGPA_{r}} = 0,9/0,166 = 5,42$ **
 * $t_{aumfGPA} = 0,193/0,064 = 3,01$ **
 * $t_{aumfGPA_{r}} = 0,193/0,074 = 2,60$ **
+* $t_{tothrs} = 0,0014/0,0012 = 1,16$ 
+* $t_{tothrs_{r}} = 0,0014/0,0012 = 1,16$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk3Mzc1NTAsLTExOTM0NTQzMzQsOD
-M3MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkz
-MTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMzAwLC04MzA1NTY2Mz
-AsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4
-MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5Nz
-EyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQy
-NCw2MDIyNzE2MjJdfQ==
+eyJoaXN0b3J5IjpbMTc5NzYxMzEyMSwtMTE5MzQ1NDMzNCw4Mz
+cyMTc3NCwtMTcxNjM4MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMx
+NDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMC
+wtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgz
+NTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MT
+I3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0
+LDYwMjI3MTYyMl19
 -->
