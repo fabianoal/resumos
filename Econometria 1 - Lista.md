@@ -847,13 +847,15 @@ Nesse caso, a base seria o setor financeiro.
 * $t_{tothrs} = 0,0014/0,0012 = 1,16$ 
 * $t_{tothrs_{r}} = 0,0014/0,0012 = 1,16$
 
-(ii) Essa hipótese indicaria uma relação 1:1 entre npGPA e nsGPA. Usando erro padrão normal, $t=(0,900 - 1)/0,175 = $
+(ii) Essa hipótese indicaria uma relação 1:1 entre npGPA e nsGPA. Usando erro padrão normal, $t=(0,900 - 1)/0,175 = -0,57$. Usando o erro padrão robusto, $t_r = (0,9 - 1)/0,166 = -0,6$. Ou seja, não se pode rejeitar a hipótese de uma relação 1:1 entre npGPA e nsGPA.
+
+(iii) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjkzMzEyNCwtMTE5MzQ1NDMzNCw4Mz
-cyMTc3NCwtMTcxNjM4MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMx
-NDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMC
-wtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgz
-NTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MT
-I3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0
-LDYwMjI3MTYyMl19
+eyJoaXN0b3J5IjpbLTE5NzA1OTQxMTksLTExOTM0NTQzMzQsOD
+M3MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkz
+MTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMzAwLC04MzA1NTY2Mz
+AsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4
+MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5Nz
+EyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQy
+NCw2MDIyNzE2MjJdfQ==
 -->
