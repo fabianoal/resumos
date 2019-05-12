@@ -889,12 +889,14 @@ O valor crítico da estatística F a 10% para $q = 2$ e $n - k - 1 > 120$ é de 
 
 Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o modelo não esteja subespecificado. A 5%, esse já não seria o caso. Assim, pode-se aventar que, mesmo que haja uma subespecificação, ela seria pouco relevante.
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mzk4ODAxLC0xNTI1ODQxMDY0LC0xOT
-cwNTk0MTE5LC0xMTkzNDU0MzM0LDgzNzIxNzc0LC0xNzE2Mzgy
-OTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNS
-wtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUx
-MDk1MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIxNj
-E2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NTgy
-LC0yMTI0MDQ4MDUwXX0=
+eyJoaXN0b3J5IjpbLTQ0MDY3NTEyNSwtMTUyNTg0MTA2NCwtMT
+k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
+MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
+UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
+MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMT
+YxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4
+MiwtMjEyNDA0ODA1MF19
 -->
