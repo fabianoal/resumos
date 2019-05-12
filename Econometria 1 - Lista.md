@@ -937,9 +937,10 @@ $cerveja/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/r
 (i) $f(z) = \beta_0 + \delta_0 d + \beta_1 z + \delta_1 d\cdot z$
 
 (ii)
-* 
+* $\beta_0 + \delta_0 d + \beta_1 z + \delta_1 d \cdot z = \beta_0 + \beta_1 z$
+* $\delta_0 d + \delta_1 d \cdot z = 0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzczNjU1OSwxMDkwNjE5MzE5LDE2MD
+eyJoaXN0b3J5IjpbMTU3MzQ4MjE1NCwxMDkwNjE5MzE5LDE2MD
 A2NzYyODQsMTk4MzkyNjI3MiwxMjI5NTY4NjQyLDE4MzIyNzcy
 NDEsNzM1OTc4ODc3LDExMjI5Mzk0MywtNzA2MzYxMjUsLTEwNj
 A0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1OTQxMTksLTExOTM0
