@@ -883,14 +883,14 @@ $q=(n - k - 1)_{r} - (n - k - 1)_{ir} = 177 - 5 - 1 - (177 - 7 - 1) = 2$
 
 $F=\frac{\frac{(R_{ir}^2 - R_r^2)}{q}}{\frac{(1 - R_{ir}^2)}{n - k - 1}}  \sim F_{(q, n - k - 1)}$
 
-$F=\frac{\frac{(R_{ir}^2 - R_r^2)}{q}}{\frac{(1 - R_{ir}^2)}{n - k - 1}}  = \frac{(0,375 - 0,353)/2}{1 - }$
+$F=\frac{\frac{(R_{ir}^2 - R_r^2)}{q}}{\frac{(1 - R_{ir}^2)}{n - k - 1}}  = \frac{(0,375 - 0,353)/2}{(1 - 0,375)/(177-7-1)} = \frac{}{}$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Njk4MTI3NSwtMTUyNTg0MTA2NCwtMT
-k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
-MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
-UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
-MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMT
-YxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4
-MiwtMjEyNDA0ODA1MF19
+eyJoaXN0b3J5IjpbLTE0MDU2NTAxMDksLTE1MjU4NDEwNjQsLT
+E5NzA1OTQxMTksLTExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYz
+ODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMT
+A1LC0xNzc5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUs
+NTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5Mj
+E2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQzMjU1
+ODIsLTIxMjQwNDgwNTBdfQ==
 -->
