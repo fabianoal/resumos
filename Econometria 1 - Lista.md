@@ -818,11 +818,13 @@ $tamclas^* = 4,40$
 
 (iii) A diferença é o coeficiente da variável $negro$ que é de -169,81 com estatística $t = -169,81/12,71 = -13,36$, ou seja, possui significância estatística a mais de 99%.
 
-(iv) A diferença é dada pela soma dos coeficientes de $feminino$, $negro$  e $feminino \dot negro$ menos os coeficientes de $feminino$. 
+(iv) A diferença é dada pela soma dos coeficientes de $feminino$, $negro$  e $feminino \dot negro$ menos o coeficiente de $feminino$. 
 
-$-45,09 - 169,81 + 62,31 - (-45,09)$
+$-45,09 - 169,81 + 62,31 - (-45,09) = -107,5$
+
+Como esse coeficiente envolve várias variáveis, não é possível realizar um teste de significância estatística. Para tal, ter-se-ia que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzMyNTQwNiwtMTY0OTY0MjIwLC0zNz
+eyJoaXN0b3J5IjpbMTc5NTM5MTg0NCwtMTY0OTY0MjIwLC0zNz
 E3OTMxNDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1
 NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MC
 wtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0y
