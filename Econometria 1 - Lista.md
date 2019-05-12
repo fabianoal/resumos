@@ -849,9 +849,13 @@ Nesse caso, a base seria o setor financeiro.
 
 (ii) Essa hipótese indicaria uma relação 1:1 entre npGPA e nsGPA. Usando erro padrão normal, $t=(0,900 - 1)/0,175 = -0,57$. Usando o erro padrão robusto, $t_r = (0,9 - 1)/0,166 = -0,6$. Ou seja, não se pode rejeitar a hipótese de uma relação 1:1 entre npGPA e nsGPA.
 
-(iii) $t = -0,157 / 0,098 = -1,6$ e $t_r = -0,157/0,08 = -1,9625$. Nesse caso, poder-se-ia rejeitar a hipótese nula a 10% bicaudal usando-se o erro padrão robusto. Assim, dependendo do erro padrão utilizado e do nível de significância, pode 
+(iii) $t = -0,157 / 0,098 = -1,6$ e $t_r = -0,157/0,08 = -1,9625$. Nesse caso, poder-se-ia rejeitar a hipótese nula a 10% bicaudal usando-se o erro padrão robusto. Assim, dependendo do erro padrão utilizado e do nível de significância, pode-se tomar diferentes decisões com respeito à rejeição ou não da hipótese nula.
+
+## Questão 29
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE3OTk1MDcsLTE5NzA1OTQxMTksLT
+eyJoaXN0b3J5IjpbLTE1MjU4NDEwNjQsLTE5NzA1OTQxMTksLT
 ExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2
 NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMz
 AwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03
