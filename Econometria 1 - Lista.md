@@ -945,13 +945,16 @@ $cerveja/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/r
 (iii)
 
 * $2,289 - 0,357 fem + 0,5 totgrad + 0,03 fem \cdot totgrad = 2,289 + 0,5 totgrad$
-* $2,289 - 0,357 fem + 0,5 totgrad + 0,03 fem \cdot totgrad = 2,289 + 0,5 totgrad$
+* $- 0,357 fem + 0,03 fem \cdot totgrad = 0$
+* $0,03 fem \cdot totgrad = 0,357 fem$
+* $totgrad = 0,357 fem / 0,03 fem$
+* $totgrad = 0,357 fem / 0,03 fem=11,9$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzAyNDkxNiwtODU5NjY5MDc4LDEwOT
-A2MTkzMTksMTYwMDY3NjI4NCwxOTgzOTI2MjcyLDEyMjk1Njg2
-NDIsMTgzMjI3NzI0MSw3MzU5Nzg4NzcsMTEyMjkzOTQzLC03MD
-YzNjEyNSwtMTA2MDQ2NTE3OCwtMTUyNTg0MTA2NCwtMTk3MDU5
-NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4MjkxMi
-wtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMDUsLTE3
-Nzk1OTEzMDBdfQ==
+eyJoaXN0b3J5IjpbLTIwMjk4NTkwNjgsLTg1OTY2OTA3OCwxMD
+kwNjE5MzE5LDE2MDA2NzYyODQsMTk4MzkyNjI3MiwxMjI5NTY4
+NjQyLDE4MzIyNzcyNDEsNzM1OTc4ODc3LDExMjI5Mzk0MywtNz
+A2MzYxMjUsLTEwNjA0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1
+OTQxMTksLTExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MT
+IsLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0x
+Nzc5NTkxMzAwXX0=
 -->
