@@ -867,9 +867,11 @@ $$- 2(0,00026)idade = -0,02$$
 
 $$idade = \frac{-0,02}{- 2(0,00026)} = 38,4$$
 
-(iv) $t=-0,101/0,038 = 2,65$. Com significância estatística a 99% (bicaudal), o modelo parece indicar que 
+(iv) $t=-0,101/0,038 = 2,65$. Com significância estatística a 99% (bicaudal), o modelo parece indicar que a restrição de fumo em restaurantes está relacionada a uma diminuição de 10% na probabilidade de a pessoa ser fumante.
+
+(v)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTQ1Mjc5NCwtMTUyNTg0MTA2NCwtMT
+eyJoaXN0b3J5IjpbLTUzNDg3NTgyMiwtMTUyNTg0MTA2NCwtMT
 k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
 MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
 UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
