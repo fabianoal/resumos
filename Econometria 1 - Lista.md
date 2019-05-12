@@ -930,9 +930,9 @@ $Var(u|renda) = \sigma^2 h(renda) = \sigma^2 renda^2$
 
 Dividindo a equação por $\sqrt{h(renda)} = \sqrt{renda^2} = renda$, temos:
 
-$cerveja \cdot 1/renda = \beta_0 \cdot 1/\sqrt(renda^2) + \beta_1 \cdot 1/\sqrt(renda^2) + \beta$
+$cerveja \cdot 1/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/renda + \beta_4$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzY5MjAxOSwxMjI5NTY4NjQyLDE4Mz
+eyJoaXN0b3J5IjpbMTk4MzkyNjI3MiwxMjI5NTY4NjQyLDE4Mz
 IyNzcyNDEsNzM1OTc4ODc3LDExMjI5Mzk0MywtNzA2MzYxMjUs
 LTEwNjA0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1OTQxMTksLT
 ExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2
