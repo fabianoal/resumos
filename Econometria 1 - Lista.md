@@ -826,13 +826,13 @@ Como esse coeficiente envolve várias variáveis, não é possível realizar um 
 
 ## Questão 27
 
-(i) A diferença percentual é o coeficiente da variável $servpub$ , que é de -0,283. Esse coeficiente tem estatística $t = 0,283/0,099$
+(i) A diferença percentual é o coeficiente da variável $servpub$ , que é de -0,283. Esse coeficiente tem estatística $t = 0,283/0,099 = 2,85$ o qual demonstra significância estatística a 99%.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MjEzODYyLC0xNjQ5NjQyMjAsLTM3MT
-c5MzE0MiwtMTIzNTY2MTEwNSwtMTc3OTU5MTMwMCwtODMwNTU2
-NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0OTQwLC
-0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNTAsLTIw
-OTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5NDI4Mz
-Q0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4LC01
-MjQzNzc2MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTYzODI5MTIsLTE2NDk2NDIyMCwtMz
+cxNzkzMTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMzAwLC04MzA1
+NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5ND
+AsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MCwt
+MjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0Mj
+gzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4LC05NDc4MDQ5Njgs
+LTUyNDM3NzYyM119
 -->
