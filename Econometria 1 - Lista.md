@@ -901,9 +901,13 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 (ii) O efeito de $gasto$ na coluna dois exibe estatística $t = 7,75/3,04 = 2,54$, ou seja, se $n >=10$ ela já possuiria significância estatística a 5%. No modelo da coluna 1 (sem a variável pobreza), o valor de $gasto$ está enviesado, visto ser o fator renda de suma importância para o desempenho escolar.
 
-(iii) Alunos pobres 
+(iii)
+
+(iv) Para cada ponto percentual a mais de alunos pobres, existe uma diminuição de 0,32 pontos percentuais de alunos aprovados no teste.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODk0NjcyNywtMTUyNTg0MTA2NCwtMT
+eyJoaXN0b3J5IjpbLTM2ODc2NDg5NCwtMTUyNTg0MTA2NCwtMT
 k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
 MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
 UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
