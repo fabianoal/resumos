@@ -897,10 +897,12 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 ## Questão 32
 
-(i)
+(i) Provavelmente, a aceitação para o programa de merenda escolar depende de algum tipo de comprovação de necessidade, o que seria um proxy razoável para o identificação da condição de pobreza.
+
+(ii)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMzNjY0OCwtMTUyNTg0MTA2NCwtMT
+eyJoaXN0b3J5IjpbLTk1NDUxNTE5NSwtMTUyNTg0MTA2NCwtMT
 k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
 MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
 UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
