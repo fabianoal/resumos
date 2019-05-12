@@ -905,13 +905,14 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 (iv) Para cada ponto percentual a mais de alunos pobres, existe uma diminuição de 0,32 pontos percentuais de alunos aprovados no teste.
 
+(v) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjM2MTI1LC0xMDYwNDY1MTc4LC0xNT
-I1ODQxMDY0LC0xOTcwNTk0MTE5LC0xMTkzNDU0MzM0LDgzNzIx
-Nzc0LC0xNzE2MzgyOTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0Mi
-wtMTIzNTY2MTEwNSwtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0x
-ODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0OTQwLC0xODM1Mz
-M5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjcz
-NzgsMjI0MzI1NTgyXX0=
+eyJoaXN0b3J5IjpbNTgxODk2NzE2LC03MDYzNjEyNSwtMTA2MD
+Q2NTE3OCwtMTUyNTg0MTA2NCwtMTk3MDU5NDExOSwtMTE5MzQ1
+NDMzNCw4MzcyMTc3NCwtMTcxNjM4MjkxMiwtMTY0OTY0MjIwLC
+0zNzE3OTMxNDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgz
+MDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxND
+k0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUw
+LC0yMDk3MTI3Mzc4XX0=
 -->
