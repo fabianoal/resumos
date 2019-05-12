@@ -913,13 +913,16 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 (ii)
 $max_{exper} = 0,1279975 + 0,090365 educ + 0,0410089 exper - 0,0007136 exper^2$
 
-$\frac{\partial \cdot}{\partial}$
+$\frac{\partial \cdot}{\partial exper} = 0,0410089 -2 \cdot(0,0007136)exper = 0$
+$-2 \cdot(0,0007136)exper = - 0,0410089$
+$exper = \frac{- 0,0410089}{-2 \cdot(0,0007136)}$
+$exper = \frac{- 0,0410089}{-2 \cdot(0,0007136)}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTkzMTIwLC03MDYzNjEyNSwtMTA2MD
-Q2NTE3OCwtMTUyNTg0MTA2NCwtMTk3MDU5NDExOSwtMTE5MzQ1
-NDMzNCw4MzcyMTc3NCwtMTcxNjM4MjkxMiwtMTY0OTY0MjIwLC
-0zNzE3OTMxNDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgz
-MDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxND
-k0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUw
-LC0yMDk3MTI3Mzc4XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc5MTQ2NDgsLTcwNjM2MTI1LC0xMD
+YwNDY1MTc4LC0xNTI1ODQxMDY0LC0xOTcwNTk0MTE5LC0xMTkz
+NDU0MzM0LDgzNzIxNzc0LC0xNzE2MzgyOTEyLC0xNjQ5NjQyMj
+AsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNSwtMTc3OTU5MTMwMCwt
+ODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5Mj
+E0OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODky
+NTAsLTIwOTcxMjczNzhdfQ==
 -->
