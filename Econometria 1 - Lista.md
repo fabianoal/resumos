@@ -901,13 +901,13 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 (ii) O efeito de $gasto$ na coluna dois exibe estatística $t = 7,75/3,04 = 2,54$, ou seja, se $n >=10$ ela já possuiria significância estatística a 5%. No modelo da coluna 1 (sem a variável pobreza), o valor de $gasto$ está enviesado, visto ser o fator renda de suma importância para o desempenho escolar.
 
-(iii) Com estatística $t=-1,26/0,58 = 2,17$, o que já daria significância estatística para um $n >= 10$ a 5% bicaudal, parece que a cada matrícula a mais, 
+(iii) Com estatística $t=-1,26/0,58 = 2,17$, o que já daria significância estatística para um $n >= 10$ a 5% bicaudal, o modelo indica que um aumento de 1% no número de matriculados na escola está relacionado a uma diminuição de 1,26 pontos percentuais na quantidade de alunos aprovados. Esse valor parece bastante alto, o que 
 
 (iv) Para cada ponto percentual a mais de alunos pobres, existe uma diminuição de 0,32 pontos percentuais de alunos aprovados no teste.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIxODY5OTYsLTE1MjU4NDEwNjQsLT
+eyJoaXN0b3J5IjpbLTEwNjA0NjUxNzgsLTE1MjU4NDEwNjQsLT
 E5NzA1OTQxMTksLTExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYz
 ODI5MTIsLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMT
 A1LC0xNzc5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUs
