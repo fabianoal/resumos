@@ -905,14 +905,18 @@ Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o 
 
 (iv) Para cada ponto percentual a mais de alunos pobres, existe uma diminuição de 0,32 pontos percentuais de alunos aprovados no teste.
 
-(v) A inclusão de $prgalm$ melhorou significativamente o ajuste do modelo. Uma aumento já era esperado, visto que a inclusão de variáveis geralmente provoca um aumento em $R^2$ entretanto,
+(v) A inclusão de $prgalm$ melhorou significativamente o ajuste do modelo. Uma aumento já era esperado, visto que a inclusão de variáveis geralmente provoca um aumento em $R^2$ entretanto, o aumento passou de aproximadamente 3% para 19%, indicando que a variável realmente é muito importante para a qualidade geral do modelo.
+
+## Questão 33
+
+(i)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg5NDM0NDEsLTcwNjM2MTI1LC0xMD
-YwNDY1MTc4LC0xNTI1ODQxMDY0LC0xOTcwNTk0MTE5LC0xMTkz
-NDU0MzM0LDgzNzIxNzc0LC0xNzE2MzgyOTEyLC0xNjQ5NjQyMj
-AsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNSwtMTc3OTU5MTMwMCwt
-ODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5Mj
-E0OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODky
-NTAsLTIwOTcxMjczNzhdfQ==
+eyJoaXN0b3J5IjpbMTY5NzEwMTAwLC03MDYzNjEyNSwtMTA2MD
+Q2NTE3OCwtMTUyNTg0MTA2NCwtMTk3MDU5NDExOSwtMTE5MzQ1
+NDMzNCw4MzcyMTc3NCwtMTcxNjM4MjkxMiwtMTY0OTY0MjIwLC
+0zNzE3OTMxNDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgz
+MDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxND
+k0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUw
+LC0yMDk3MTI3Mzc4XX0=
 -->
