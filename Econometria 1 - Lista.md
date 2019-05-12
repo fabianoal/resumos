@@ -926,9 +926,9 @@ $exper = \frac{- 0,0410089}{-2 \cdot(0,0007136)}=28,73$
 
 ## Questão 35
 
-$$
+$cerveja \cdot 1/\sqrt(renda^2) = \beta_0 \cdot 1/\sqrt(renda^2) + \beta_1 \cdot 1/\sqrt(renda^2) + \beta$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDM5ODc3NywxODMyMjc3MjQxLDczNT
+eyJoaXN0b3J5IjpbMTIyOTU2ODY0MiwxODMyMjc3MjQxLDczNT
 k3ODg3NywxMTIyOTM5NDMsLTcwNjM2MTI1LC0xMDYwNDY1MTc4
 LC0xNTI1ODQxMDY0LC0xOTcwNTk0MTE5LC0xMTkzNDU0MzM0LD
 gzNzIxNzc0LC0xNzE2MzgyOTEyLC0xNjQ5NjQyMjAsLTM3MTc5
