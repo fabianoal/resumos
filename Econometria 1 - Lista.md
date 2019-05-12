@@ -887,10 +887,10 @@ $F=\frac{\frac{(R_{ir}^2 - R_r^2)}{q}}{\frac{(1 - R_{ir}^2)}{n - k - 1}}  = \fra
 
 O valor crítico da estatística F a 10% para $q = 2$ e $n - k - 1 > 120$ é de 2,3 a 10% e 3 a 5%.
 
-Dessa forma, a 10% pode-se rejeitar a hipótese de que o modelo não esteja subespecificado.
+Dessa forma, a 10% poder-se-ia rejeitar a $H_0: \beta_6 = \beta_7 = 0$ de que o modelo não esteja subespecificado. A 5%, esse já não seria o caso. Assim, pode-se aventar que, mesmo que haja uma subespecificação, ela seria pouco relevante.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNTEzMzU0LC0xNTI1ODQxMDY0LC0xOT
+eyJoaXN0b3J5IjpbLTM1Mzk4ODAxLC0xNTI1ODQxMDY0LC0xOT
 cwNTk0MTE5LC0xMTkzNDU0MzM0LDgzNzIxNzc0LC0xNzE2Mzgy
 OTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNS
 wtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUx
