@@ -806,13 +806,19 @@ A estatística $t$ para o coeficiente de $edupais$ é de $0,033/0,17 = 1,94$,  o
 
 $\max_{tamclass} 1028,10 + 19,30 tamclas - 2,19 tamclas^2 - 45,09 feminino - 169,81 negro + 62,31 feminino \cdot negro$
 
-$\frac{\partial \cdot}{\partial tamclas} = 19,30 - 2 \cdot 2,19$
+$\frac{\partial \cdot}{\partial tamclas} = 19,30 - 2 \cdot 2,19 tamclas = 0$
+
+$2 \cdot 2,19 tamclas = 19,30$
+
+$tamclas = \frac{19,30}{2 \cdot 2,19}$
+
+$tamclas^ = \frac{19,30}{2 \cdot 2,19}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjQyOTM2MSwtMTIzNTY2MTEwNSwtMT
-c3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1
-MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NT
-UsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0y
-MTI0MDQ4MDUwLDE5NDI4MzQ0MjQsNjAyMjcxNjIyLDU3OTgyNz
-M2OCwtOTQ3ODA0OTY4LC01MjQzNzc2MjMsLTEwODgwMzQ5MzEs
-LTE4ODkyMTc3Ml19
+eyJoaXN0b3J5IjpbODk2MzQ0MDE0LC0xMjM1NjYxMTA1LC0xNz
+c5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUy
+NjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NS
+wtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIx
+MjQwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3Mz
+Y4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywtMTA4ODAzNDkzMSwt
+MTg4OTIxNzcyXX0=
 -->
