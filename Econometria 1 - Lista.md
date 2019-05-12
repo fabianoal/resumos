@@ -920,14 +920,14 @@ $exper = \frac{- 0,0410089}{-2 \cdot(0,0007136)}=28,73$
 
 ## Questão 34
 
-(i) A diferença percentual é dada pelo coeficiente de $negro$ (-0,188). Esse coeficiente tem estatísitca t
+(i) A diferença percentual é dada pelo coeficiente de $negro$ (-0,188). Esse coeficiente tem estatística $t = -0,188/0,038 = -4,94$, ou seja, apresenta significância estatística
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NTY0NTcxLDExMjI5Mzk0MywtNzA2Mz
-YxMjUsLTEwNjA0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1OTQx
-MTksLTExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MTIsLT
-E2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0xNzc5
-NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNj
-YxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwt
-MTY2MzU4OTI1MF19
+eyJoaXN0b3J5IjpbNTIwMTAyNjQsMTEyMjkzOTQzLC03MDYzNj
+EyNSwtMTA2MDQ2NTE3OCwtMTUyNTg0MTA2NCwtMTk3MDU5NDEx
+OSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4MjkxMiwtMT
+Y0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMDUsLTE3Nzk1
+OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2Nj
+EsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0x
+NjYzNTg5MjUwXX0=
 -->
