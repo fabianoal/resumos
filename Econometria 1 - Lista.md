@@ -866,8 +866,10 @@ $$\frac{\partial \cdot}{\partial idade} = 0,02 - 2(0,00026)idade = 0$$
 $$- 2(0,00026)idade = -0,02$$
 
 $$idade = \frac{-0,02}{- 2(0,00026)} = 38,4$$
+
+(iv) $t=0,101/0,038 = 2,65$. Com significância estatística a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNTM3ODI0LC0xNTI1ODQxMDY0LC0xOT
+eyJoaXN0b3J5IjpbNzQ5MjMxNzU4LC0xNTI1ODQxMDY0LC0xOT
 cwNTk0MTE5LC0xMTkzNDU0MzM0LDgzNzIxNzc0LC0xNzE2Mzgy
 OTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNS
 wtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUx
