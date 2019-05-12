@@ -950,13 +950,13 @@ $cerveja/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/r
 * $totgrad = 0,357 fem / 0,03 fem$
 * $totgrad = 0,357 fem / 0,03 fem=11,9$
 
-(iv)
+(iv) O valor encontrado (11,9) sugere que elas teriam que estudar 12 anos em cursos de graduação para igualar seus salár
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMDIwNjUyLC04NTk2NjkwNzgsMTA5MD
-YxOTMxOSwxNjAwNjc2Mjg0LDE5ODM5MjYyNzIsMTIyOTU2ODY0
-MiwxODMyMjc3MjQxLDczNTk3ODg3NywxMTIyOTM5NDMsLTcwNj
-M2MTI1LC0xMDYwNDY1MTc4LC0xNTI1ODQxMDY0LC0xOTcwNTk0
-MTE5LC0xMTkzNDU0MzM0LDgzNzIxNzc0LC0xNzE2MzgyOTEyLC
-0xNjQ5NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNSwtMTc3
-OTU5MTMwMF19
+eyJoaXN0b3J5IjpbLTIwNDQ1NTQ3MTEsLTg1OTY2OTA3OCwxMD
+kwNjE5MzE5LDE2MDA2NzYyODQsMTk4MzkyNjI3MiwxMjI5NTY4
+NjQyLDE4MzIyNzcyNDEsNzM1OTc4ODc3LDExMjI5Mzk0MywtNz
+A2MzYxMjUsLTEwNjA0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1
+OTQxMTksLTExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MT
+IsLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0x
+Nzc5NTkxMzAwXX0=
 -->
