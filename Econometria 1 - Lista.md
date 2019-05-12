@@ -828,13 +828,14 @@ Como esse coeficiente envolve várias variáveis, não é possível realizar um 
 
 (i) A diferença percentual é o coeficiente da variável $servpub$ , que é de -0,283 (28,3%). Esse coeficiente tem estatística $t = 0,283/0,099 = 2,85$ o qual demonstra significância estatística a 99%.
 
-(ii) A diferença exata é dada por 100 * [exp(-0,283) - 1]
+(ii) A diferença exata é dada por $100 * [exp(-0,283) - 1] = -24.64802$. O valor é um pouco menor que o valor apro
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MjE3NzQsLTE3MTYzODI5MTIsLTE2ND
-k2NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkx
-MzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC
-03NzkyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NSwtMTY2
-MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIxMjQwND
-gwNTAsMTk0MjgzNDQyNCw2MDIyNzE2MjIsNTc5ODI3MzY4LC05
-NDc4MDQ5NjhdfQ==
+eyJoaXN0b3J5IjpbLTU4MDQ3MDU5NSw4MzcyMTc3NCwtMTcxNj
+M4MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjEx
+MDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NS
+w1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTky
+MTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNT
+U4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYwMjI3MTYyMiw1
+Nzk4MjczNjhdfQ==
 -->
