@@ -926,15 +926,17 @@ $exper = \frac{- 0,0410089}{-2 \cdot(0,0007136)}=28,73$
 
 ## Questão 35
 
+$Var(u|renda) = \sigma^2 h(renda) = \sigma^2 renda^2$
 
+Dividindo a equação por $\sqrt{h(renda)} = \sqrt{renda^2} = renda$, temos:
 
-$cerveja \cdot 1/\sqrt(renda^2) = \beta_0 \cdot 1/\sqrt(renda^2) + \beta_1 \cdot 1/\sqrt(renda^2) + \beta$
+$cerveja \cdot 1/renda = \beta_0 \cdot 1/\sqrt(renda^2) + \beta_1 \cdot 1/\sqrt(renda^2) + \beta$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk3OTM0OTgsMTIyOTU2ODY0MiwxOD
-MyMjc3MjQxLDczNTk3ODg3NywxMTIyOTM5NDMsLTcwNjM2MTI1
-LC0xMDYwNDY1MTc4LC0xNTI1ODQxMDY0LC0xOTcwNTk0MTE5LC
-0xMTkzNDU0MzM0LDgzNzIxNzc0LC0xNzE2MzgyOTEyLC0xNjQ5
-NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNSwtMTc3OTU5MT
-MwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwt
-Nzc5MjE0OTQwXX0=
+eyJoaXN0b3J5IjpbLTk5NzY5MjAxOSwxMjI5NTY4NjQyLDE4Mz
+IyNzcyNDEsNzM1OTc4ODc3LDExMjI5Mzk0MywtNzA2MzYxMjUs
+LTEwNjA0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1OTQxMTksLT
+ExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2
+NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMz
+AwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03
+NzkyMTQ5NDBdfQ==
 -->
