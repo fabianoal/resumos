@@ -812,9 +812,11 @@ $2 \cdot 2,19 tamclas = 19,30$
 
 $tamclas = \frac{19,30}{2 \cdot 2,19}$
 
-$tamclas^ = \frac{19,30}{2 \cdot 2,19}$
+$tamclas^* = 4,40$
+
+(iii)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MzQ0MDE0LC0xMjM1NjYxMTA1LC0xNz
+eyJoaXN0b3J5IjpbNjEzODY0NjczLC0xMjM1NjYxMTA1LC0xNz
 c5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUy
 NjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MTUsLTU5MjE2MTY1NS
 wtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwyMjQzMjU1ODIsLTIx
