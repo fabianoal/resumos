@@ -818,13 +818,13 @@ $tamclas^* = 4,40$
 
 (iii) A diferença é o coeficiente da variável $negro$ que é de -169,81 com estatística $t = -169,81/12,71 = -13,36$, ou seja, possui significância estatística a mais de 99%.
 
-(iv) A diferença  da soma dos coeficientes de $feminino$ o coeficiente da interação entre as variáveis $feminino \cdot negro$ que é de 62,31
+(iv) A diferença  da soma dos coeficientes de $feminino$, $negro$  e $feminino \dot negro$ o coeficiente da interação entre as variáveis $feminino \cdot negro$ que é de 62,31
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1MzY0NTE0LC0xNjQ5NjQyMjAsLTM3MT
-c5MzE0MiwtMTIzNTY2MTEwNSwtMTc3OTU5MTMwMCwtODMwNTU2
-NjMwLC0xODMyNzc3Mjc1LDUxMDk1MjY2MSwtNzc5MjE0OTQwLC
-0xODM1MzM5NDE1LC01OTIxNjE2NTUsLTE2NjM1ODkyNTAsLTIw
-OTcxMjczNzgsMjI0MzI1NTgyLC0yMTI0MDQ4MDUwLDE5NDI4Mz
-Q0MjQsNjAyMjcxNjIyLDU3OTgyNzM2OCwtOTQ3ODA0OTY4LC01
-MjQzNzc2MjNdfQ==
+eyJoaXN0b3J5IjpbMTIyMjU2NjMxNywtMTY0OTY0MjIwLC0zNz
+E3OTMxNDIsLTEyMzU2NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1
+NjYzMCwtMTgzMjc3NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MC
+wtMTgzNTMzOTQxNSwtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0y
+MDk3MTI3Mzc4LDIyNDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyOD
+M0NDI0LDYwMjI3MTYyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwt
+NTI0Mzc3NjIzXX0=
 -->
