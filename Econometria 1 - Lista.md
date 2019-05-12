@@ -814,9 +814,11 @@ $tamclas = \frac{19,30}{2 \cdot 2,19}$
 
 $tamclas^* = 4,40$
 
-(iii) A diferença estimada é o coeficiente da variável $negro = -169,81$, cuja estatística $t = -169,81/12,71 = -13,36$, ou seja, 
+(iii) A diferença estimada é o coeficiente da variável $negro = -169,81$, cuja estatística $t = -169,81/12,71 = -13,36$, ou seja, com significância estatística a mais de 99%. Nesse caso, pode-se descartar a hipótese nula.
+
+(iv) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTgyOTk2NCwtMTIzNTY2MTEwNSwtMT
+eyJoaXN0b3J5IjpbMTUyMDA5MTA0MywtMTIzNTY2MTEwNSwtMT
 c3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUxMDk1
 MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIxNjE2NT
 UsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NTgyLC0y
