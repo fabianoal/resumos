@@ -861,13 +861,17 @@ Nesse caso, a base seria o setor financeiro.
 
 $$max_{idade} 0,656 - 0,069 log(precig) + 0,012 log(renda) - 0,029 educ + 0,02 idade - 0,00026 idade^2 - 0,101 restaurn - 0,026 branco$$
 
-$$\frac{\partial \cdot}{\partial idade} = 0,02 - $$
+$$\frac{\partial \cdot}{\partial idade} = 0,02 - 2(0,00026)idade = 0$$
+
+$$- 2(0,00026)idade = -0,02$$
+
+$$idade = \frac{-0,02}{- 2(0,00026)} = 38,4$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njg4MDUyNSwtMTUyNTg0MTA2NCwtMT
-k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
-MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
-UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
-MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNSwtNTkyMT
-YxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIyNDMyNTU4
-MiwtMjEyNDA0ODA1MF19
+eyJoaXN0b3J5IjpbMzgwNTM3ODI0LC0xNTI1ODQxMDY0LC0xOT
+cwNTk0MTE5LC0xMTkzNDU0MzM0LDgzNzIxNzc0LC0xNzE2Mzgy
+OTEyLC0xNjQ5NjQyMjAsLTM3MTc5MzE0MiwtMTIzNTY2MTEwNS
+wtMTc3OTU5MTMwMCwtODMwNTU2NjMwLC0xODMyNzc3Mjc1LDUx
+MDk1MjY2MSwtNzc5MjE0OTQwLC0xODM1MzM5NDE1LC01OTIxNj
+E2NTUsLTE2NjM1ODkyNTAsLTIwOTcxMjczNzgsMjI0MzI1NTgy
+LC0yMTI0MDQ4MDUwXX0=
 -->
