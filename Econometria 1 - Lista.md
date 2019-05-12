@@ -930,13 +930,17 @@ $Var(u|renda) = \sigma^2 h(renda) = \sigma^2 renda^2$
 
 Dividindo a equação por $\sqrt{h(renda)} = \sqrt{renda^2} = renda$, temos:
 
-$cerveja \cdot 1/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/renda + \beta_4$
+$cerveja/renda = \beta_0/renda + \beta_1 + \beta_2 preço/renda + \beta_3 educ/renda + \beta_4 feminino/renda + u/renda$
+
+## Questão 36
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzkyNjI3MiwxMjI5NTY4NjQyLDE4Mz
-IyNzcyNDEsNzM1OTc4ODc3LDExMjI5Mzk0MywtNzA2MzYxMjUs
-LTEwNjA0NjUxNzgsLTE1MjU4NDEwNjQsLTE5NzA1OTQxMTksLT
-ExOTM0NTQzMzQsODM3MjE3NzQsLTE3MTYzODI5MTIsLTE2NDk2
-NDIyMCwtMzcxNzkzMTQyLC0xMjM1NjYxMTA1LC0xNzc5NTkxMz
-AwLC04MzA1NTY2MzAsLTE4MzI3NzcyNzUsNTEwOTUyNjYxLC03
-NzkyMTQ5NDBdfQ==
+eyJoaXN0b3J5IjpbMTc3NTQxODk5NywxOTgzOTI2MjcyLDEyMj
+k1Njg2NDIsMTgzMjI3NzI0MSw3MzU5Nzg4NzcsMTEyMjkzOTQz
+LC03MDYzNjEyNSwtMTA2MDQ2NTE3OCwtMTUyNTg0MTA2NCwtMT
+k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
+MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
+UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
+MTA5NTI2NjFdfQ==
 -->
