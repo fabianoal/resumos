@@ -814,15 +814,15 @@ $tamclas = \frac{19,30}{2 \cdot 2,19}$
 
 $tamclas^* = 4,40$
 
-(ii) A diferença estimada é o coeficiente da variável $negro = -169,81$, cuja estatística $t = -169,81/12,71 = -13,36$, ou seja, com significância estatística a mais de 99%. Nesse caso, pode-se descartar a hipótese nula.
+(ii) A diferença estimada é a diferença entre os coeficientes de $feminino$ o coeficiente da variável $negro = -169,81$, cuja estatística $t = -169,81/12,71 = -13,36$, ou seja, com significância estatística a mais de 99%. Nesse caso, pode-se descartar a hipótese nula.
 
 (iv) A diferença é o coeficiente da interação entre as variáveis $feminino$ e $negro$, que é de $62,31$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4ODE1ODY1LC0zNzE3OTMxNDIsLTEyMz
-U2NjExMDUsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3
-NzI3NSw1MTA5NTI2NjEsLTc3OTIxNDk0MCwtMTgzNTMzOTQxNS
-wtNTkyMTYxNjU1LC0xNjYzNTg5MjUwLC0yMDk3MTI3Mzc4LDIy
-NDMyNTU4MiwtMjEyNDA0ODA1MCwxOTQyODM0NDI0LDYwMjI3MT
-YyMiw1Nzk4MjczNjgsLTk0NzgwNDk2OCwtNTI0Mzc3NjIzLC0x
-MDg4MDM0OTMxXX0=
+eyJoaXN0b3J5IjpbLTE2NDk2NDIyMCwtMzcxNzkzMTQyLC0xMj
+M1NjYxMTA1LC0xNzc5NTkxMzAwLC04MzA1NTY2MzAsLTE4MzI3
+NzcyNzUsNTEwOTUyNjYxLC03NzkyMTQ5NDAsLTE4MzUzMzk0MT
+UsLTU5MjE2MTY1NSwtMTY2MzU4OTI1MCwtMjA5NzEyNzM3OCwy
+MjQzMjU1ODIsLTIxMjQwNDgwNTAsMTk0MjgzNDQyNCw2MDIyNz
+E2MjIsNTc5ODI3MzY4LC05NDc4MDQ5NjgsLTUyNDM3NzYyMywt
+MTA4ODAzNDkzMV19
 -->
