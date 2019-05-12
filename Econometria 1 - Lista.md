@@ -859,9 +859,11 @@ Nesse caso, a base seria o setor financeiro.
 
 (iii)
 
-$max_{idade} $
+$$max_{idade} 0,656 - 0,069 log(precig) + 0,012 log(renda) - 0,029 educ + 0,02 idade - 0,00026 idade^2 - 0,101 restaurn - 0,026 branco$$
+
+$$\frac{\partial \cdot}{\partial idade} = 0,02 - $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMxNzI5NywtMTUyNTg0MTA2NCwtMT
+eyJoaXN0b3J5IjpbMTc5Njg4MDUyNSwtMTUyNTg0MTA2NCwtMT
 k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
 MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
 UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
