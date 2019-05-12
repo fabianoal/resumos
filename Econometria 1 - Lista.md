@@ -855,9 +855,13 @@ Nesse caso, a base seria o setor financeiro.
 
 (i) Não.
 
-(ii) A probabilidade diminui em $2,9*4$
+(ii) A probabilidade diminui em $2,9\%*4 = 11,6\%$
+
+(iii)
+
+$max_{idade} $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTUxMTk0NiwtMTUyNTg0MTA2NCwtMT
+eyJoaXN0b3J5IjpbLTE0NzMxNzI5NywtMTUyNTg0MTA2NCwtMT
 k3MDU5NDExOSwtMTE5MzQ1NDMzNCw4MzcyMTc3NCwtMTcxNjM4
 MjkxMiwtMTY0OTY0MjIwLC0zNzE3OTMxNDIsLTEyMzU2NjExMD
 UsLTE3Nzk1OTEzMDAsLTgzMDU1NjYzMCwtMTgzMjc3NzI3NSw1
