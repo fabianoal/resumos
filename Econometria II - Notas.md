@@ -6,7 +6,7 @@ Título: "Notas de Econometria II"
 
 ## Intro
 
-Análise de dois tipos diferentes
+Análise de dois tipos diferentes de estruturas de dados: Amostras randômicas obtidas em diferentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzY4NjcyNV19
+eyJoaXN0b3J5IjpbLTM5NTU3MDMwMV19
 -->
