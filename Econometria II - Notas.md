@@ -2,9 +2,11 @@
 Título: "Notas de Econometria II"
 ---
 
-# Cap. 13 - 
+# Cap. 13 - Interpolando *cross sections* no tempo
 
-> Written with [StackEdit](https://stackedit.io/).
+## Intro
+
+Análise de dois tipos diferentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MDYzNTMxXX0=
+eyJoaXN0b3J5IjpbMTUxNzY4NjcyNV19
 -->
