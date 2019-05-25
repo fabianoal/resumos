@@ -22,8 +22,14 @@ Pode-se se usar simples subtração de coeficientes em diferentes regressões, o
 
 ## 13.3 Dados em Painel: 2 períodos
 
-Mo
+Modelo de efeitos não observados:
+
+$$y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  a_i + u_{it}, t= 1,2$$
+
+Onde:
+* $i$ denota a unidade de *cross section*
+* $d2$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM4ODIyNDYsMTYzODU0NzQwNiwxND
+eyJoaXN0b3J5IjpbLTE5OTc2OTUyNzIsMTYzODU0NzQwNiwxND
 YwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
 -->
