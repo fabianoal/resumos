@@ -12,7 +12,9 @@ Análise de dois tipos diferentes de estruturas de dados:
 
 Para análise econométrica de dados em painel, não é possível assumir que as observações são independentemente distribuídas através do tempo. Por exemplo, fatores não observados (como habilidade) que afetam o salário de alguém em 1990, também afetaria o salário em 1991. Assim, os métodos estatísticos desenvolvidos para esse tipo de dado buscam remover atributos não observados e constantes no tempo das unidades em estudo.
 
-## 13.1 
+## 13.1 *Cross sections* interpoladas independentemente
+
+Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, us
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA0OTY4ODMsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTE2MTk5ODI5MywtNjY3MDYxMzc1XX0=
 -->
