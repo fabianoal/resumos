@@ -14,8 +14,15 @@ Para análise econométrica de dados em painel, não é possível assumir que as
 
 ## 13.1 *Cross sections* interpoladas independentemente
 
-Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. O método é conhecido como diferenças em diferenças. Pode-se se usar simples subtração de coeficientes em diferentes regressões, ou usar diferentes interceptos e interações. Essa metodologia é especialmente interessante quando dados emergem de experimentos naturais (*quasi-experimento*).
+Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. O método é conhecido como diferenças em diferenças. 
+
+## 13.2 Diferenças em diferenças
+
+Pode-se se usar simples subtração de coeficientes em diferentes regressões, ou usar diferentes interceptos e interações. Essa metodologia é especialmente interessante quando dados emergem de experimentos naturais (*quasi-experimento*).
+
+## 13.3 Dados em Painel: 2 períodos
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02Nj
-cwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02Mz
+Q1ODU4ODQsLTY2NzA2MTM3NV19
 -->
