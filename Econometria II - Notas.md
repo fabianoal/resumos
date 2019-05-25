@@ -14,7 +14,7 @@ Para análise econométrica de dados em painel, não é possível assumir que as
 
 ## 13.1 *Cross sections* interpoladas independentemente
 
-Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, us
+Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk5ODI5MywtNjY3MDYxMzc1XX0=
+eyJoaXN0b3J5IjpbLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
 -->
