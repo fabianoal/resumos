@@ -30,10 +30,12 @@ Onde:
 * $i$ denota a unidade de *cross section*
 * $d2$ é 0 quando $t=1$ e 2 quando $t=2$. Obviamente, ela varia em $t$
 * $a_i$ denota os efeitos não observados (ou efeitos fixos), ou seja, aqueles que variam de acordo com o indivíduo mas não variam de acordo com o tempo. Outros nomes: heterogeneidade não observada/heterogeneidade individual (da unidade de *cross section* utilizada.
-* $u_{it}$ denota o termo de erro tanto no tempo como no indivíduo. Outros nomes
+* $u_{it}$ denota o termo de erro tanto no tempo como no indivíduo. Outros nomes: erro idiossincrático/erro variável no tempo.
+
+Exemplo para dados de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MTA0MDExLDE2Mzg1NDc0MDYsMTQ2MD
-I1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbLTk1NzA3NDQ5NSwxNjM4NTQ3NDA2LDE0Nj
+AyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
 -->
