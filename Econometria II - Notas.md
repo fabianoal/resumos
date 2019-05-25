@@ -22,7 +22,8 @@ Pode-se se usar simples subtração de coeficientes em diferentes regressões, o
 
 ## 13.3 Dados em Painel: 2 períodos
 
+Mo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02Mz
-Q1ODU4ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTE0MzM4ODIyNDYsMTYzODU0NzQwNiwxND
+YwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
 -->
