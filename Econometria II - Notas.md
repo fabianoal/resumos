@@ -41,10 +41,11 @@ Onde:
 
 Os problemas em usar OLS para estimar o modelo como se fosse *cross section* interpolada independente:
 
-1. Seria necessário afirmar que $a_i$ não é correlacionado com $x_{it}%
+1. Seria necessário afirmar que $a_i$ não é correlacionado com $x_{it}$, ou seja, $y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  \nu_{it}, t= 1,2
+2.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTExNTk4OSwxNjM4NTQ3NDA2LDE0Nj
-AyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
+eyJoaXN0b3J5IjpbMjkyNjM1NDI0LDE2Mzg1NDc0MDYsMTQ2MD
+I1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
 -->
