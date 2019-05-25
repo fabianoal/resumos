@@ -39,9 +39,12 @@ $$crmrte_{it} = \beta_0 + \delta_0 d87_t + \beta_1 unem_{it} + a_i + u_{it}$$
 Onde:
 * $a_i$ denota o *efeito não observado da cidade*, ou o *efeito fixo da cidade*.
 
+Os problemas em usar OLS para estimar o modelo como se fosse *cross section* interpolada independente:
+
+1. Seria necessário afirmar que $a_i$ não é correlacionado com $x_{it}%
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzYwMjI4OSwxNjM4NTQ3NDA2LDE0Nj
+eyJoaXN0b3J5IjpbMTcyNTExNTk4OSwxNjM4NTQ3NDA2LDE0Nj
 AyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
 -->
