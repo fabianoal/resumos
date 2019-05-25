@@ -28,8 +28,9 @@ $$y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  a_i + u_{it}, t= 1,2$$
 
 Onde:
 * $i$ denota a unidade de *cross section*
-* $d2$ 
+* $d2$ é 0 quando $t=1$ e 2 quando $t=2$. Obviamente, ela varia em $t$
+* $a_i$ denota os efeitos não observados (ou efeitos fixos), ou seja, aqueles que variam de acordo com o indivíduo mas não variam de acordo com o tempo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc2OTUyNzIsMTYzODU0NzQwNiwxND
-YwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTE1MjA1OTEyNSwxNjM4NTQ3NDA2LDE0Nj
+AyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
 -->
