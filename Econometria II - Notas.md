@@ -32,10 +32,16 @@ Onde:
 * $a_i$ denota os efeitos não observados (ou efeitos fixos), ou seja, aqueles que variam de acordo com o indivíduo mas não variam de acordo com o tempo. Outros nomes: heterogeneidade não observada/heterogeneidade individual (da unidade de *cross section* utilizada.
 * $u_{it}$ denota o termo de erro tanto no tempo como no indivíduo. Outros nomes: erro idiossincrático/erro variável no tempo.
 
-Exemplo para dados de 
+Exemplo para dados de criminalidade:
+
+$$crmrte_{it} = \beta_0 + \delta_0 d87_t + \beta_1 unem_{it} + a_i + u_{it}$$
+
+Onde:
+* $a_i$ denota o *efeito não observado da cidade*, ou o *efeito fixo da cidade*.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzA3NDQ5NSwxNjM4NTQ3NDA2LDE0Nj
+eyJoaXN0b3J5IjpbMTgyMzYwMjI4OSwxNjM4NTQ3NDA2LDE0Nj
 AyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
 -->
