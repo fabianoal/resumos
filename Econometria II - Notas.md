@@ -6,7 +6,9 @@ Título: "Notas de Econometria II"
 
 ## Intro
 
-Análise de dois tipos diferentes de estruturas de dados: Amostras randômicas de uma população obtidas em diferentes pontos no tempo e 
+Análise de dois tipos diferentes de estruturas de dados: 
+* *Cross sections* interpoladas independentemente: amostras randômicas de uma população obtidas em diferentes pontos no tempo; e
+* Dados em painel: também conhecido co
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTkyNDA4MDA1NCwtNjY3MDYxMzc1XX0=
 -->
