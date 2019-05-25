@@ -44,9 +44,10 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 1. Seria necessário afirmar que $a_i$ não é correlacionado com $x_{it}$, ou seja, $y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  \nu_{it}, t= 1,2$ onde $\nu_{it} = a_i + u_{it}$ é chamado de **erro composto**. Mesmo assumindo que o erro idiossincrático não é correlacionado com $x_{ij}$, a regressão via OLS estaria enviesada se $a_i$ form, de alguma forma, correlacionado com $x_{it}$. Esse viés em OLS interpolada é chamado de viés de heterogeneidade e representa  um viés causado pela omissão de uma variável constante no tempo.
 2. TODO
 
+A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYyMjczOTIsOTExMDA5NTEwLDE2Mz
-g1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEz
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzOD
+U0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3
+NV19
 -->
