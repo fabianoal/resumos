@@ -18,7 +18,7 @@ Benefícios: aumento do tamanho da amostra, produzindo estimadores mais precisos
 
 O agrupamento é útil somente se a a relação entre a variável dependente e pelo menos uma variável dependente for constante ao longo do tempo.
 
-
+**Importante: O agrupamento se dá no tempo**
 
 Estruturação: Para refletir o fato de que a população pode ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. 
 
@@ -73,7 +73,7 @@ $$crmrte_{it} = \beta_0 + \delta_0 d87_t + \beta_1 unem_{it} + a_i + u_{it}$$
 Onde:
 * $a_i$ denota o *efeito não observado da cidade*, ou o *efeito fixo da cidade*.
 
-Os problemas em usar OLS para estimar o modelo como se fosse *cross section* interpolada independente:
+Principal problema em usar OLS para estimar o modelo como se fosse *cross section* interpolada independente (MQO Agrupado) seria q
 
 1. Seria necessário afirmar que $a_i$ não é correlacionado com $x_{it}$, ou seja, $y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  \nu_{it}, t= 1,2$ onde $\nu_{it} = a_i + u_{it}$ é chamado de **erro composto**. Mesmo assumindo que o erro idiossincrático não é correlacionado com $x_{ij}$, a regressão via OLS estaria enviesada se $a_i$ for, de alguma forma, correlacionado com $x_{it}$. Esse viés em OLS interpolada é chamado de viés de heterogeneidade e representa  um viés causado pela omissão de uma variável constante no tempo.
 2. TODO
@@ -81,9 +81,9 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTYyNzM0MjcsLTIxMTA0ODI3OTksLT
-E3MTkxNzQ2NzQsNzg3MjE1NDY0LDE4NDIxNTgwODEsMTI0NzA2
-NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05NDIwNTU3NDIsOT
-ExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1
-ODg0LC02NjcwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbODk0NTQ4NDUyLC0yMTEwNDgyNzk5LC0xNz
+E5MTc0Njc0LDc4NzIxNTQ2NCwxODQyMTU4MDgxLDEyNDcwNjcy
+NjYsNDg3ODUwMjAwLDE0MjQxNjk2OCwtOTQyMDU1NzQyLDkxMT
+AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
+NCwtNjY3MDYxMzc1XX0=
 -->
