@@ -18,9 +18,7 @@ Benefícios: aumento do tamanho da amostra, produzindo estimadores mais precisos
 
 O agrupamento é útil somente se a a relação entre a variável dependente e pelo menos uma variável dependente for constante ao longo do tempo.
 
-Complicações estatísticas: 
-
-Para refletir o fato de que a população pode ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. O método é conhecido como diferenças em diferenças. 
+Estruturação: Para refletir o fato de que a população pode ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. 
 
 ## 13.2 Diferenças em diferenças
 
@@ -53,7 +51,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4MTQ3NDc5LC05NDIwNTU3NDIsOTExMD
-A5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0
-LC02NjcwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbLTIxMDUxNDYwNzIsLTk0MjA1NTc0Miw5MT
+EwMDk1MTAsMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4
+ODQsLTY2NzA2MTM3NV19
 -->
