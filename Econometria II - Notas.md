@@ -46,6 +46,7 @@ A equação de interesse é:
 
 $$y = \beta_0 +\delta_0 d2 + \beta_1 dB + \delta_1 d2 \cdot dB + e$$
 
+Nesse caso, $\hat{\delta}_1 = (\bar{y}_{2,B}
 
 ### Diferenças em diferenças
 
@@ -78,8 +79,8 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MjE1NDY0LDE4NDIxNTgwODEsMTI0Nz
-A2NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05NDIwNTU3NDIs
-OTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NT
-g1ODg0LC02NjcwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbLTEyMTU1MjU5MzMsNzg3MjE1NDY0LDE4ND
+IxNTgwODEsMTI0NzA2NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4
+LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MD
+I1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
 -->
