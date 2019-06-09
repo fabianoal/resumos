@@ -85,8 +85,10 @@ $$y_{i1} = \beta_0 + \beta_1 x_{i1} +  a_i + u_{i1}, (t=1)$$
 Subtraindo a segunda da primeira temos:
 
 $$\Delta y_i = \delta_0 + \beta_1 \Delta x_i + \Delta u_i$$
+
+Chamamos essa equação de **equação de primeiras diferenças**. Ela pode ser analisada com os métodos tradicionais desde que atendidas as hipóteses *Gauss-Markov* e que o erro idiossincrático em cada tempo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMjAwNzA2LC0xNTYzMzc5NDc4LDc2Mj
+eyJoaXN0b3J5IjpbLTE0ODYzOTA2LC0xNTYzMzc5NDc4LDc2Mj
 AxOTA2MiwtMjExMDQ4Mjc5OSwtMTcxOTE3NDY3NCw3ODcyMTU0
 NjQsMTg0MjE1ODA4MSwxMjQ3MDY3MjY2LDQ4Nzg1MDIwMCwxND
 I0MTY5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzODU0NzQw
