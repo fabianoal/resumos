@@ -78,11 +78,13 @@ O principal problema em usar OLS para estimar o modelo como se fosse *cross sect
 
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
-$$y_{i1} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  a_i + u_{it}, t= 1,2$$
+$$y_{i2} = \beta_0 + \delta_0 + \beta_1 x_{i2} +  a_i + u_{i2}$$
+
+$$y_{i1} = \beta_0 + \beta_1 x_{i1} +  a_i + u_{i1}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk5MTAxMDksLTIxMTA0ODI3OTksLT
-E3MTkxNzQ2NzQsNzg3MjE1NDY0LDE4NDIxNTgwODEsMTI0NzA2
-NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05NDIwNTU3NDIsOT
-ExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1
-ODg0LC02NjcwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbNzYyMDE5MDYyLC0yMTEwNDgyNzk5LC0xNz
+E5MTc0Njc0LDc4NzIxNTQ2NCwxODQyMTU4MDgxLDEyNDcwNjcy
+NjYsNDg3ODUwMjAwLDE0MjQxNjk2OCwtOTQyMDU1NzQyLDkxMT
+AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
+NCwtNjY3MDYxMzc1XX0=
 -->
