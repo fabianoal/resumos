@@ -86,12 +86,12 @@ Subtraindo a segunda da primeira temos:
 
 $$\Delta y_i = \delta_0 + \beta_1 \Delta x_i + \Delta u_i$$
 
-Chamamos essa equação de **equação de primeiras diferenças**. Ela pode ser analisada com os métodos tradicionais desde que atendidas as hipóteses *Gauss-Markov* e que o erro idiossincrático em cada tempo $t$, ($u_{it}$) não for correlacionado com uma variável explicativa em ambos os períodos de tempo. Essa é uma forma da hipótese de **exogeneidade extrita** encontrada na análise d
+Chamamos essa equação de **equação de primeiras diferenças**. Ela pode ser analisada com os métodos tradicionais desde que atendidas as hipóteses *Gauss-Markov* e que o erro idiossincrático em cada tempo $t$, ($u_{it}$) não for correlacionado com uma variável explicativa em ambos os períodos de tempo. Essa é uma forma da hipótese de **exogeneidade extrita** encontrada na análise de séries temporais. O estimador MQO de $\beta_1$ é chamado de **estimador de primeiras diferenças**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQxNjA3NTUsLTE1NjMzNzk0NzgsNz
-YyMDE5MDYyLC0yMTEwNDgyNzk5LC0xNzE5MTc0Njc0LDc4NzIx
-NTQ2NCwxODQyMTU4MDgxLDEyNDcwNjcyNjYsNDg3ODUwMjAwLD
-E0MjQxNjk2OCwtOTQyMDU1NzQyLDkxMTAwOTUxMCwxNjM4NTQ3
-NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX
-0=
+eyJoaXN0b3J5IjpbMTAwNjQzNTYxOCwtMTU2MzM3OTQ3OCw3Nj
+IwMTkwNjIsLTIxMTA0ODI3OTksLTE3MTkxNzQ2NzQsNzg3MjE1
+NDY0LDE4NDIxNTgwODEsMTI0NzA2NzI2Niw0ODc4NTAyMDAsMT
+QyNDE2OTY4LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0
+MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ
+==
 -->
