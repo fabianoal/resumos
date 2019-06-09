@@ -16,7 +16,11 @@ Para análise econométrica de dados em painel, não é possível assumir que as
 
 Benefícios: aumento do tamanho da amostra, produzindo estimadores mais precisos.
 
+O agrupamento é útil somente se a a relação entre a variável dependente e pelo menos uma variável dependente for constante ao longo do tempo.
 
+Complicações estatísticas: 
+
+Para Diferentes distribuições
 
 Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. O método é conhecido como diferenças em diferenças. 
 
@@ -51,7 +55,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjA2ODQ3NiwtOTQyMDU1NzQyLDkxMT
+eyJoaXN0b3J5IjpbMTc3NTI5OTYzMSwtOTQyMDU1NzQyLDkxMT
 AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
 NCwtNjY3MDYxMzc1XX0=
 -->
