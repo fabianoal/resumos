@@ -86,11 +86,12 @@ Subtraindo a segunda da primeira temos:
 
 $$\Delta y_i = \delta_0 + \beta_1 \Delta x_i + \Delta u_i$$
 
-Chamamos essa equação de **equação de primeiras diferenças**. Ela pode ser analisada com os métodos tradicionais desde que atendidas as hipóteses *Gauss-Markov* e que o erro idiossincrático em cada tempo 
+Chamamos essa equação de **equação de primeiras diferenças**. Ela pode ser analisada com os métodos tradicionais desde que atendidas as hipóteses *Gauss-Markov* e que o erro idiossincrático em cada tempo $t$, ($u_{it}$) não for correlacionado com uma variável explicativa em ambos os períodos de tempo. Essa é uma forma da hipótese de **exogeneidade extrita** encontrada na análise d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYzOTA2LC0xNTYzMzc5NDc4LDc2Mj
-AxOTA2MiwtMjExMDQ4Mjc5OSwtMTcxOTE3NDY3NCw3ODcyMTU0
-NjQsMTg0MjE1ODA4MSwxMjQ3MDY3MjY2LDQ4Nzg1MDIwMCwxND
-I0MTY5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzODU0NzQw
-NiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTEyMzQxNjA3NTUsLTE1NjMzNzk0NzgsNz
+YyMDE5MDYyLC0yMTEwNDgyNzk5LC0xNzE5MTc0Njc0LDc4NzIx
+NTQ2NCwxODQyMTU4MDgxLDEyNDcwNjcyNjYsNDg3ODUwMjAwLD
+E0MjQxNjk2OCwtOTQyMDU1NzQyLDkxMTAwOTUxMCwxNjM4NTQ3
+NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX
+0=
 -->
