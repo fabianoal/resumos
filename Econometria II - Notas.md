@@ -30,7 +30,7 @@ Fazer a interação de todas as variáveis independentes com todas as *dummies* 
 
 Pode-se utilizar um teste **Chow** para avaliar se há de fato uma diferença entre períodos para verificar a necessidade de realizar todas as interações. (O teste **Chow** só é possível de ser executado quando se trata de dois períodos distintos).
 
-Outra forma de se executar um teste **Chow** é interagir cada variável explicativa com cada variável dummy temporal e realizar um teste de signif
+Outra forma de se executar um teste **Chow** é interagir cada variável explicativa com cada variável dummy temporal e realizar um teste de significância conjunta.
 
 ## 13.2 Diferenças em diferenças
 
@@ -63,7 +63,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDkwMiw0ODc4NTAyMDAsMTQyNDE2OT
-Y4LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2
-MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbMTE3MTA3NjE3Myw0ODc4NTAyMDAsMTQyND
+E2OTY4LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0MDYs
+MTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
 -->
