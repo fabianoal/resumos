@@ -28,9 +28,9 @@ Outra opção: interagir as variáveis explicativas com as variáveis *dummies* 
 
 Fazer a interação de todas as variáveis independentes com todas as *dummies* temporais equivale a estimarmos modelos diferentes para cada fatia temporal.
 
-Pode-se utilizar um teste **Chow** para avaliar se há de fato uma diferença entre períodos para verificar a necessidade de realizar todas as interações. (O teste **Chow** pode ser realizado c).
+Pode-se utilizar um teste **Chow** para avaliar se há de fato uma diferença entre períodos para verificar a necessidade de realizar todas as interações. (O teste **Chow** pode ser realizado com vários períodos de tempo).
 
-Outra forma de se executar um teste **Chow** é interagir cada variável explicativa com cada variável dummy temporal e realizar um teste de significância conjunta.
+Cabe lembrar que, usando o teste **Chow** com regressões separadas e calculando-se a estatística $F$, tem-se uma estatística **não** robusta em relação à heterocedasticidade. Para executar um teste robusto, deve-se executar um teste **Chow** interagindo cada variável explicativa com cada variável dummy temporal e realizar um teste de significância conjunta.
 
 ## 13.2 Diferenças em diferenças
 
@@ -63,7 +63,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDc5NzI2LDQ4Nzg1MDIwMCwxNDI0MT
-Y5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzODU0NzQwNiwx
-NDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTExMzQwMjM2MTIsNDg3ODUwMjAwLDE0Mj
+QxNjk2OCwtOTQyMDU1NzQyLDkxMTAwOTUxMCwxNjM4NTQ3NDA2
+LDE0NjAyNTQzNTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
 -->
