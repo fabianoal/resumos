@@ -39,6 +39,11 @@ Para controlar diferenças sistemáticas entre os grupos de controle e de tratam
 * $A$ grupo de controle
 * $B$ grupo de tratamento
 
+A equação de interesse é:
+
+$$y = \beta_0 +\delta_0 d2 + \beta-1 dB + \delta_1 d2 \cdot 
+
+
 ## 13.2 Diferenças em diferenças
 
 Pode-se se usar simples subtração de coeficientes em diferentes regressões, ou usar diferentes interceptos e interações. Essa metodologia é especialmente interessante quando dados emergem de experimentos naturais (*quasi-experimento*).
@@ -70,7 +75,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjA4MjI0NiwxMjQ3MDY3MjY2LDQ4Nz
+eyJoaXN0b3J5IjpbMTMwNDk4OTE1MywxMjQ3MDY3MjY2LDQ4Nz
 g1MDIwMCwxNDI0MTY5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAs
 MTYzODU0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2Nz
 A2MTM3NV19
