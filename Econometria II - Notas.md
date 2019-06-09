@@ -20,6 +20,8 @@ O agrupamento é útil somente se a a relação entre a variável dependente e p
 
 Estruturação: Para refletir o fato de que a população pode ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. 
 
+Em caso de heterocedasticidade ao longo do tempo, pode-se usar erros
+
 ## 13.2 Diferenças em diferenças
 
 Pode-se se usar simples subtração de coeficientes em diferentes regressões, ou usar diferentes interceptos e interações. Essa metodologia é especialmente interessante quando dados emergem de experimentos naturais (*quasi-experimento*).
@@ -51,7 +53,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDUxNDYwNzIsLTk0MjA1NTc0Miw5MT
-EwMDk1MTAsMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4
-ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTI2MDIyMjQzMSwtOTQyMDU1NzQyLDkxMT
+AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
+NCwtNjY3MDYxMzc1XX0=
 -->
