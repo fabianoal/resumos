@@ -18,6 +18,8 @@ Benefícios: aumento do tamanho da amostra, produzindo estimadores mais precisos
 
 O agrupamento é útil somente se a a relação entre a variável dependente e pelo menos uma variável dependente for constante ao longo do tempo.
 
+
+
 Estruturação: Para refletir o fato de que a população pode ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. 
 
 Em caso de heterocedasticidade ao longo do tempo, pode-se usar erros-padrão robustos. O teste Breusch-Pagan é obtido fazendo-se a regressão do quadrado dos resíduos de MQO sobre *todas* as variáveis independentes (inclusive as dummies).
@@ -79,9 +81,9 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA0ODI3OTksLTE3MTkxNzQ2NzQsNz
-g3MjE1NDY0LDE4NDIxNTgwODEsMTI0NzA2NzI2Niw0ODc4NTAy
-MDAsMTQyNDE2OTY4LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mz
-g1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEz
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTE2NTYyNzM0MjcsLTIxMTA0ODI3OTksLT
+E3MTkxNzQ2NzQsNzg3MjE1NDY0LDE4NDIxNTgwODEsMTI0NzA2
+NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05NDIwNTU3NDIsOT
+ExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1
+ODg0LC02NjcwNjEzNzVdfQ==
 -->
