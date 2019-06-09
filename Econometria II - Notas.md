@@ -24,7 +24,9 @@ Em caso de heterocedasticidade ao longo do tempo, pode-se usar erros-padrão rob
 
 Um procedimento de mínimos quadrados ponderados (ou mínimos quadrados ponderados factível) deve explicar as variâncias que possivelmente mudem ao longo do tempo.
 
-Outra opç
+Outra opção: interagir as variáveis explicativas com as variáveis *dummies* para verificar como o efeito da variável mudou ao longo do tempo.
+
+Fazer a interação de todas as variáveis independentes e todas as *dummies* temporais
 
 ## 13.2 Diferenças em diferenças
 
@@ -57,7 +59,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzYyMzE2MywxNDI0MTY5NjgsLTk0Mj
-A1NTc0Miw5MTEwMDk1MTAsMTYzODU0NzQwNiwxNDYwMjU0MzU4
-LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbLTExMTE3NzQyODksMTQyNDE2OTY4LC05ND
+IwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1
+OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
 -->
