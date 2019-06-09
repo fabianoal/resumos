@@ -84,12 +84,11 @@ $$y_{i1} = \beta_0 + \beta_1 x_{i1} +  a_i + u_{i1}, (t=1)$$
 
 Subtraindo a segunda da primeira temos:
 
-$$\Delta y_i = \delta_0 + \beta_1 \Delta x_i + \Delta u+_$$
+$$\Delta y_i = \delta_0 + \beta_1 \Delta x_i + \Delta u_i$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDk3MTY3MiwtMTU2MzM3OTQ3OCw3Nj
-IwMTkwNjIsLTIxMTA0ODI3OTksLTE3MTkxNzQ2NzQsNzg3MjE1
-NDY0LDE4NDIxNTgwODEsMTI0NzA2NzI2Niw0ODc4NTAyMDAsMT
-QyNDE2OTY4LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0
-MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ
-==
+eyJoaXN0b3J5IjpbNTkwMjAwNzA2LC0xNTYzMzc5NDc4LDc2Mj
+AxOTA2MiwtMjExMDQ4Mjc5OSwtMTcxOTE3NDY3NCw3ODcyMTU0
+NjQsMTg0MjE1ODA4MSwxMjQ3MDY3MjY2LDQ4Nzg1MDIwMCwxND
+I0MTY5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzODU0NzQw
+NiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
 -->
