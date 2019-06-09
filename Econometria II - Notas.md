@@ -34,7 +34,10 @@ Cabe lembrar que, usando o teste **Chow** com regressões separadas e calculando
 
 ### Experimentos naturais ou quase-experimento.
 
-para controlar diferenças sistemáticas entre
+Para controlar diferenças sistemáticas entre os grupos de controle e de tratamento, precisamos de dois períodos de dados (anterior e posterior à aplicação do tratamento), resultando em uma amostra com quatro grupos 
+
+* $A$ grupo de controle
+* $B$ grupo de tratamento
 
 ## 13.2 Diferenças em diferenças
 
@@ -67,8 +70,8 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY5NTI4OTcsMTI0NzA2NzI2Niw0OD
-c4NTAyMDAsMTQyNDE2OTY4LC05NDIwNTU3NDIsOTExMDA5NTEw
-LDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02Nj
-cwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbMTAzNjA4MjI0NiwxMjQ3MDY3MjY2LDQ4Nz
+g1MDIwMCwxNDI0MTY5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAs
+MTYzODU0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2Nz
+A2MTM3NV19
 -->
