@@ -56,7 +56,7 @@ Pode-se se usar simples subtração de coeficientes em diferentes regressões, o
 
 ## 13.3 Dados em Painel: 2 períodos
 
-Modelo de efeitos não observados:
+Modelo de efeitos não observados / modelo de efeitos fixos:
 
 $$y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  a_i + u_{it}, t= 1,2$$
 
@@ -82,9 +82,9 @@ $$y_{i2} = \beta_0 + \delta_0 + \beta_1 x_{i2} +  a_i + u_{i2}$$
 
 $$y_{i1} = \beta_0 + \beta_1 x_{i1} +  a_i + u_{i1}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMDE5MDYyLC0yMTEwNDgyNzk5LC0xNz
-E5MTc0Njc0LDc4NzIxNTQ2NCwxODQyMTU4MDgxLDEyNDcwNjcy
-NjYsNDg3ODUwMjAwLDE0MjQxNjk2OCwtOTQyMDU1NzQyLDkxMT
-AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
-NCwtNjY3MDYxMzc1XX0=
+eyJoaXN0b3J5IjpbLTY4NzExMjI4OCw3NjIwMTkwNjIsLTIxMT
+A0ODI3OTksLTE3MTkxNzQ2NzQsNzg3MjE1NDY0LDE4NDIxNTgw
+ODEsMTI0NzA2NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05ND
+IwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1
+OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
 -->
