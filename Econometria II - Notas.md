@@ -20,9 +20,7 @@ O agrupamento é útil somente se a a relação entre a variável dependente e p
 
 Complicações estatísticas: 
 
-Para Diferentes distribuições
-
-Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. O método é conhecido como diferenças em diferenças. 
+Para refletir o fato de que a população pode ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. O método é conhecido como diferenças em diferenças. 
 
 ## 13.2 Diferenças em diferenças
 
@@ -55,7 +53,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTI5OTYzMSwtOTQyMDU1NzQyLDkxMT
-AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
-NCwtNjY3MDYxMzc1XX0=
+eyJoaXN0b3J5IjpbNTE4MTQ3NDc5LC05NDIwNTU3NDIsOTExMD
+A5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0
+LC02NjcwNjEzNzVdfQ==
 -->
