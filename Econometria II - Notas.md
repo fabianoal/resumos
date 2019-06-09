@@ -38,7 +38,7 @@ Para controlar diferenças sistemáticas entre os grupos de controle e de tratam
 
 * $A$ grupo de controle
 * $B$ grupo de tratamento
-* $d$ *
+* $d$ u
 * $d2$ *dummy* para o segundo período de tempo
 A equação de interesse é:
 
@@ -76,8 +76,8 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjE1ODA4MSwxMjQ3MDY3MjY2LDQ4Nz
-g1MDIwMCwxNDI0MTY5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAs
-MTYzODU0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2Nz
-A2MTM3NV19
+eyJoaXN0b3J5IjpbMjExODYzMzgyLDE4NDIxNTgwODEsMTI0Nz
+A2NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05NDIwNTU3NDIs
+OTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NT
+g1ODg0LC02NjcwNjEzNzVdfQ==
 -->
