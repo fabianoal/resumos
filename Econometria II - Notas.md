@@ -32,6 +32,8 @@ Pode-se utilizar um teste **Chow** para avaliar se há de fato uma diferença en
 
 Cabe lembrar que, usando o teste **Chow** com regressões separadas e calculando-se a estatística $F$, tem-se uma estatística **não** robusta em relação à heterocedasticidade. Para executar um teste robusto, deve-se executar um teste **Chow** interagindo cada variável explicativa com cada variável dummy temporal e realizar um teste de significância conjunta robusto.
 
+## 13.2 Análise de decisão de políticas com agrupamentos de cortes trans
+
 ### Experimentos naturais ou quase-experimento.
 
 Para controlar diferenças sistemáticas entre os grupos de controle e de tratamento, precisamos de dois períodos de dados (anterior e posterior à aplicação do tratamento), resultando em uma amostra com quatro grupos 
@@ -76,7 +78,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMwNjA5ODMsMTg0MjE1ODA4MSwxMj
+eyJoaXN0b3J5IjpbLTE5MzEyMzk1NTgsMTg0MjE1ODA4MSwxMj
 Q3MDY3MjY2LDQ4Nzg1MDIwMCwxNDI0MTY5NjgsLTk0MjA1NTc0
 Miw5MTEwMDk1MTAsMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02Mz
 Q1ODU4ODQsLTY2NzA2MTM3NV19
