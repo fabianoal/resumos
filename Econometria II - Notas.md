@@ -28,7 +28,7 @@ Outra opção: interagir as variáveis explicativas com as variáveis *dummies* 
 
 Fazer a interação de todas as variáveis independentes com todas as *dummies* temporais equivale a estimarmos modelos diferentes para cada fatia temporal.
 
-
+Pode-se utilizar 
 
 ## 13.2 Diferenças em diferenças
 
@@ -61,7 +61,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3ODUwMjAwLDE0MjQxNjk2OCwtOTQyMD
-U1NzQyLDkxMTAwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgs
-LTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
+eyJoaXN0b3J5IjpbMTQ5NTE1NDgxLDQ4Nzg1MDIwMCwxNDI0MT
+Y5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzODU0NzQwNiwx
+NDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
 -->
