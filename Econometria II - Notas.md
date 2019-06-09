@@ -28,7 +28,7 @@ Outra opção: interagir as variáveis explicativas com as variáveis *dummies* 
 
 Fazer a interação de todas as variáveis independentes com todas as *dummies* temporais equivale a estimarmos modelos diferentes para cada fatia temporal.
 
-Pode-se utilizar 
+Pode-se utilizar um teste **Chow** para avaliar se há de fato uma diferença entre períodos para verificar a necessidade de realizar todas as interações. (O teste **Chow** só é possível de ser executado quando se tr
 
 ## 13.2 Diferenças em diferenças
 
@@ -61,7 +61,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTE1NDgxLDQ4Nzg1MDIwMCwxNDI0MT
-Y5NjgsLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzODU0NzQwNiwx
-NDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbMTY0MTYzMTE0Myw0ODc4NTAyMDAsMTQyND
+E2OTY4LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0MDYs
+MTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
 -->
