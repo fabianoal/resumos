@@ -32,7 +32,7 @@ Pode-se utilizar um teste **Chow** para avaliar se há de fato uma diferença en
 
 Cabe lembrar que, usando o teste **Chow** com regressões separadas e calculando-se a estatística $F$, tem-se uma estatística **não** robusta em relação à heterocedasticidade. Para executar um teste robusto, deve-se executar um teste **Chow** interagindo cada variável explicativa com cada variável dummy temporal e realizar um teste de significância conjunta robusto.
 
-## 13.2 Análise de decisão de políticas com agrupamentos de cortes trans
+## 13.2 Análise de decisão de políticas com agrupamentos de cortes transversais
 
 ### Experimentos naturais ou quase-experimento.
 
@@ -47,7 +47,7 @@ A equação de interesse é:
 $$y = \beta_0 +\delta_0 d2 + \beta_1 dB + \delta_1 d2 \cdot dB + e$$
 
 
-## 13.2 Diferenças em diferenças
+### Diferenças em diferenças
 
 Pode-se se usar simples subtração de coeficientes em diferentes regressões, ou usar diferentes interceptos e interações. Essa metodologia é especialmente interessante quando dados emergem de experimentos naturais (*quasi-experimento*).
 
@@ -78,8 +78,8 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEyMzk1NTgsMTg0MjE1ODA4MSwxMj
-Q3MDY3MjY2LDQ4Nzg1MDIwMCwxNDI0MTY5NjgsLTk0MjA1NTc0
-Miw5MTEwMDk1MTAsMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02Mz
-Q1ODU4ODQsLTY2NzA2MTM3NV19
+eyJoaXN0b3J5IjpbNzg3MjE1NDY0LDE4NDIxNTgwODEsMTI0Nz
+A2NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05NDIwNTU3NDIs
+OTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NT
+g1ODg0LC02NjcwNjEzNzVdfQ==
 -->
