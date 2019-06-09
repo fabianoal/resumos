@@ -22,6 +22,8 @@ Estruturação: Para refletir o fato de que a população pode ter diferentes di
 
 Em caso de heterocedasticidade ao longo do tempo, pode-se usar erros-padrão robustos. O teste Breusch-Pagan é obtido fazendo-se a regressão do quadrado dos resíduos de MQO sobre *todas* as variáveis independentes (inclusive as dummies).
 
+Um procedimento de mínimos quadrados ponderados 
+
 ## 13.2 Diferenças em diferenças
 
 Pode-se se usar simples subtração de coeficientes em diferentes regressões, ou usar diferentes interceptos e interações. Essa metodologia é especialmente interessante quando dados emergem de experimentos naturais (*quasi-experimento*).
@@ -53,7 +55,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTIxODg3MywtOTQyMDU1NzQyLDkxMT
-AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
-NCwtNjY3MDYxMzc1XX0=
+eyJoaXN0b3J5IjpbMTQyNDE2OTY4LC05NDIwNTU3NDIsOTExMD
+A5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0
+LC02NjcwNjEzNzVdfQ==
 -->
