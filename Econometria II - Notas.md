@@ -12,7 +12,11 @@ Análise de dois tipos diferentes de estruturas de dados:
 
 Para análise econométrica de dados em painel, não é possível assumir que as observações são independentemente distribuídas através do tempo. Por exemplo, fatores não observados (como habilidade) que afetam o salário de alguém em 1990, também afetaria o salário em 1991. Assim, os métodos estatísticos desenvolvidos para esse tipo de dado buscam remover atributos não observados e constantes no tempo das unidades em estudo.
 
-## 13.1 *Cross sections* interpoladas independentemente
+## 13.1 Agrupamento independente de cortes transversais ao longo do tempo.
+
+Benefícios: aumento do tamanho da amostra, produzindo estimadores mais precisos.
+
+
 
 Tipicamente, para refletir o fato de que as populações podem ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. O método é conhecido como diferenças em diferenças. 
 
@@ -47,7 +51,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjA1NTc0Miw5MTEwMDk1MTAsMTYzOD
-U0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLTY2NzA2MTM3
-NV19
+eyJoaXN0b3J5IjpbMTMzMjA2ODQ3NiwtOTQyMDU1NzQyLDkxMT
+AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
+NCwtNjY3MDYxMzc1XX0=
 -->
