@@ -73,17 +73,15 @@ $$crmrte_{it} = \beta_0 + \delta_0 d87_t + \beta_1 unem_{it} + a_i + u_{it}$$
 Onde:
 * $a_i$ denota o *efeito não observado da cidade*, ou o *efeito fixo da cidade*.
 
-Principal problema em usar OLS para estimar o modelo como se fosse *cross section* interpolada independente (MQO Agrupado) seria q
+O principal problema em usar OLS para estimar o modelo como se fosse *cross section* interpolada independente (MQO Agrupado) é que seria necessário afirmar que $a_i$ não é correlacionado com $x_{it}$, ou seja, $y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  \nu_{it}, t= 1,2$ onde $\nu_{it} = a_i + u_{it}$ é chamado de **erro composto**. Mesmo assumindo que o erro idiossincrático não é correlacionado com $x_{ij}$, a regressão via OLS estaria enviesada se $a_i$ for, de alguma forma, correlacionado com $x_{it}$. Esse viés em OLS interpolada é chamado de ***viés de heterogeneidade*** e representa  um viés causado pela ***omissão de uma variável constante no tempo***.
 
-1. Seria necessário afirmar que $a_i$ não é correlacionado com $x_{it}$, ou seja, $y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  \nu_{it}, t= 1,2$ onde $\nu_{it} = a_i + u_{it}$ é chamado de **erro composto**. Mesmo assumindo que o erro idiossincrático não é correlacionado com $x_{ij}$, a regressão via OLS estaria enviesada se $a_i$ for, de alguma forma, correlacionado com $x_{it}$. Esse viés em OLS interpolada é chamado de viés de heterogeneidade e representa  um viés causado pela omissão de uma variável constante no tempo.
-2. TODO
 
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NTQ4NDUyLC0yMTEwNDgyNzk5LC0xNz
-E5MTc0Njc0LDc4NzIxNTQ2NCwxODQyMTU4MDgxLDEyNDcwNjcy
-NjYsNDg3ODUwMjAwLDE0MjQxNjk2OCwtOTQyMDU1NzQyLDkxMT
-AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
-NCwtNjY3MDYxMzc1XX0=
+eyJoaXN0b3J5IjpbLTUxOTM5MTM3NSwtMjExMDQ4Mjc5OSwtMT
+cxOTE3NDY3NCw3ODcyMTU0NjQsMTg0MjE1ODA4MSwxMjQ3MDY3
+MjY2LDQ4Nzg1MDIwMCwxNDI0MTY5NjgsLTk0MjA1NTc0Miw5MT
+EwMDk1MTAsMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4
+ODQsLTY2NzA2MTM3NV19
 -->
