@@ -63,7 +63,7 @@ $$y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  a_i + u_{it}, t= 1,2$$
 Onde:
 * $i$ denota a unidade de *cross section*
 * $d2$ é 0 quando $t=1$ e 2 quando $t=2$. Obviamente, ela varia em $t$
-* $a_i$ denota os efeitos não observados (ou efeitos fixos), ou seja, aqueles que variam de acordo com o indivíduo mas não variam de acordo com o tempo. Outros nomes: heterogeneidade não observada/heterogeneidade individual (da unidade de *cross section* utilizada.
+* $a_i$ denota os efeitos não observados (ou efeitos fixos), ou seja, aqueles que variam de acordo com a observação mas não variam de acordo com o tempo. Outros nomes: heterogeneidade não observada/heterogeneidade individual (da unidade de *cross section* utilizada.
 * $u_{it}$ denota o termo de erro tanto no tempo como no indivíduo. Outros nomes: erro idiossincrático/erro variável no tempo.
 
 Exemplo para dados de criminalidade:
@@ -82,9 +82,9 @@ $$y_{i2} = \beta_0 + \delta_0 + \beta_1 x_{i2} +  a_i + u_{i2}$$
 
 $$y_{i1} = \beta_0 + \beta_1 x_{i1} +  a_i + u_{i1}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzExMjI4OCw3NjIwMTkwNjIsLTIxMT
-A0ODI3OTksLTE3MTkxNzQ2NzQsNzg3MjE1NDY0LDE4NDIxNTgw
-ODEsMTI0NzA2NzI2Niw0ODc4NTAyMDAsMTQyNDE2OTY4LC05ND
-IwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0MDYsMTQ2MDI1NDM1
-OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ==
+eyJoaXN0b3J5IjpbLTE1NjMzNzk0NzgsNzYyMDE5MDYyLC0yMT
+EwNDgyNzk5LC0xNzE5MTc0Njc0LDc4NzIxNTQ2NCwxODQyMTU4
+MDgxLDEyNDcwNjcyNjYsNDg3ODUwMjAwLDE0MjQxNjk2OCwtOT
+QyMDU1NzQyLDkxMTAwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQz
+NTgsLTYzNDU4NTg4NCwtNjY3MDYxMzc1XX0=
 -->
