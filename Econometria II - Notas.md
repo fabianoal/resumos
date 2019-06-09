@@ -20,7 +20,7 @@ O agrupamento é útil somente se a a relação entre a variável dependente e p
 
 Estruturação: Para refletir o fato de que a população pode ter diferentes distribuições através do tempo, usa-se diferentes interceptos através do tempo usando variáveis *dummy*. 
 
-Em caso de heterocedasticidade ao longo do tempo, pode-se usar erros
+Em caso de heterocedasticidade ao longo do tempo, pode-se usar erros-padrão robustos. O teste Breusch-Pagan é obtido fazendo-se a regressão do quadrado dos resíduos de MQO sobre *todas* as variáveis independentes (inclusive as dummies).
 
 ## 13.2 Diferenças em diferenças
 
@@ -53,7 +53,7 @@ Os problemas em usar OLS para estimar o modelo como se fosse *cross section* int
 A ideia de coletar dados em painel é justamente permitir a correlação entre a variável explanatória e os efeitos fixos para que possamos pegar só o que diferencia. Dessa forma, o método **primeira diferença** permite obter a diferença 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDIyMjQzMSwtOTQyMDU1NzQyLDkxMT
+eyJoaXN0b3J5IjpbLTQ1OTIxODg3MywtOTQyMDU1NzQyLDkxMT
 AwOTUxMCwxNjM4NTQ3NDA2LDE0NjAyNTQzNTgsLTYzNDU4NTg4
 NCwtNjY3MDYxMzc1XX0=
 -->
