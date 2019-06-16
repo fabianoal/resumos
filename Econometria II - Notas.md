@@ -56,7 +56,7 @@ Pode-se se usar simples subtração de coeficientes em diferentes regressões, o
 
 ## 13.3 Dados em Painel: 2 períodos
 
-Modelo de efeitos não observados / modelo de efeitos fixos:
+Modelo de **efeitos não observados** / modelo de **efeitos fixos**:
 
 $$y_{it} = \beta_0 + \delta_0 d2_t + \beta_1 x_{it} +  a_i + u_{it}, t= 1,2$$
 
@@ -88,10 +88,10 @@ $$\Delta y_i = \delta_0 + \beta_1 \Delta x_i + \Delta u_i$$
 
 Chamamos essa equação de **equação de primeiras diferenças**. Ela pode ser analisada com os métodos tradicionais desde que atendidas as hipóteses *Gauss-Markov* e que o erro idiossincrático em cada tempo $t$, ($u_{it}$) não for correlacionado com uma variável explicativa em ambos os períodos de tempo. Essa é uma forma da hipótese de **exogeneidade extrita** encontrada na análise de séries temporais. O estimador MQO de $\beta_1$ é chamado de **estimador de primeiras diferenças**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjQzNTYxOCwtMTU2MzM3OTQ3OCw3Nj
-IwMTkwNjIsLTIxMTA0ODI3OTksLTE3MTkxNzQ2NzQsNzg3MjE1
-NDY0LDE4NDIxNTgwODEsMTI0NzA2NzI2Niw0ODc4NTAyMDAsMT
-QyNDE2OTY4LC05NDIwNTU3NDIsOTExMDA5NTEwLDE2Mzg1NDc0
-MDYsMTQ2MDI1NDM1OCwtNjM0NTg1ODg0LC02NjcwNjEzNzVdfQ
-==
+eyJoaXN0b3J5IjpbLTM0NTQxNzc1OCwxMDA2NDM1NjE4LC0xNT
+YzMzc5NDc4LDc2MjAxOTA2MiwtMjExMDQ4Mjc5OSwtMTcxOTE3
+NDY3NCw3ODcyMTU0NjQsMTg0MjE1ODA4MSwxMjQ3MDY3MjY2LD
+Q4Nzg1MDIwMCwxNDI0MTY5NjgsLTk0MjA1NTc0Miw5MTEwMDk1
+MTAsMTYzODU0NzQwNiwxNDYwMjU0MzU4LC02MzQ1ODU4ODQsLT
+Y2NzA2MTM3NV19
 -->
