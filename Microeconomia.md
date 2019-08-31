@@ -111,6 +111,10 @@ A otimização pode ser efetuada nas funções de custo para firmas monopolistas
 
 A condição de maximização é descrita por $\boldsymbol{p}Df(\boldsymbol{x^*}) = \boldsymbol{w}$ (o gradiente de $f$ tem que ser igual ao preço dos insumos).
 
+Onde : 
+* $\boldsymbol{w}$ é o vetor de preços dos insumos; e 
+* $\boldsymbol
+
 Lembrar da idéia de que $w/p$ é a inclinação da curva. A solução que se procura é __igualar__ a $PMg_\boldsymbol{x}$ à essa inclinação.
 
 Para uma firma de somente um produto, o comportamento de maximização pode ser descrito por:
@@ -317,5 +321,5 @@ O livro aborda o problmea da escolha de três formas: diferenciando as condiçõ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjkzNjcyOF19
+eyJoaXN0b3J5IjpbLTIwNDI5NDI3NzYsLTYzMjkzNjcyOF19
 -->
