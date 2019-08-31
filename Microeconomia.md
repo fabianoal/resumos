@@ -113,7 +113,7 @@ A condição de maximização é descrita por $\boldsymbol{p}Df(\boldsymbol{x^*}
 
 Onde : 
 * $\boldsymbol{w}$ é o vetor de preços dos insumos; e 
-* $\boldsymbol
+* $\boldsymbol{p}$ é o vetor de preços dos produtos.
 
 Lembrar da idéia de que $w/p$ é a inclinação da curva. A solução que se procura é __igualar__ a $PMg_\boldsymbol{x}$ à essa inclinação.
 
@@ -321,5 +321,5 @@ O livro aborda o problmea da escolha de três formas: diferenciando as condiçõ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI5NDI3NzYsLTYzMjkzNjcyOF19
+eyJoaXN0b3J5IjpbLTE4MTMwNzQ1NTEsLTYzMjkzNjcyOF19
 -->
